@@ -2899,7 +2899,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_DANDEFLY_MEGA] =
+	[SPECIES_DANDELFLY_MEGA] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
