@@ -4106,6 +4106,7 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_TITANBLOWHOG_MEGA] = sTitanBlowhogLevelUpLearnset,
 	[SPECIES_MASTERHOP_MEGA] = sMasterhopLevelUpLearnset,
 	[SPECIES_GLINTBEETLE_MEGA] = sGlintBeetleLevelUpLearnset,
+	[SPECIES_GIANTBREADBUG_MEGA] = sGiantBreadbugLevelUpLearnset,
 	[SPECIES_SOVREIGNBULBLAX_MEGA] = sSovreignBulblaxLevelUpLearnset,
 	[SPECIES_DANDEFLY_MEGA] = sDandeflyLevelUpLearnset,
 	[SPECIES_PILEATEDSNAGRET_MEGA] = sPileatedSnagretLevelUpLearnset,
