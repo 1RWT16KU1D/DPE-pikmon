@@ -43,3 +43,6 @@ extern u8 gCry042ArcticCannonBeetle[];
 extern u8 gCry043Skitterleaf[];
 extern u8 gCry044DesiccatedSkitterleaf[];
 extern u8 gCry045ArmoredCannonLarva[];
+extern u8 gCry046ArmoredCannonBeetle[];
+extern u8 gCry047HornedCannonBeetle[];
+extern u8 gCry048CreepingChrysanthemum[];
