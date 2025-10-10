@@ -201,22 +201,7 @@ void LoadSpecialPokePic(const struct CompressedSpriteSheet* src, void* dest, u16
 	if (species != oldSpecies) //Updated sprite
 		src = &table[species];
 	
-	if (species == SPECIES_UNOWN)
-	{
-		u16 i = GetUnownLetterFromPersonality(personality);
-
-		// The other Unowns are separate from Unown A.
-		if (i == 0)
-			i = SPECIES_UNOWN;
-		else
-			i += SPECIES_UNOWN_B - 1;
-
-		if (!isFrontPic)
-			LZ77UnCompWram((void*) gMonBackPicTable[i].data, dest);
-		else
-			LZ77UnCompWram((void*) gMonFrontPicTable[i].data, dest);
-	}
-	else if (species > NUM_SPECIES) // is species unknown? draw the ? icon
+	if (species > NUM_SPECIES) // is species unknown? draw the ? icon
 		LZ77UnCompWram((void*) gMonFrontPicTable[0].data, dest);
 	else
 		LZ77UnCompWram((void*) src->data, dest);
@@ -249,26 +234,14 @@ const struct CompressedSpritePalette* GetMonSpritePalStructFromOtIdPersonality(u
 		return &gMonPaletteTable[species];
 }
 
-u16 GetIconSpecies(u16 species, u32 personality)
+u16 GetIconSpecies(u16 species, __attribute__((unused)) u32 personality)
 {
 	u16 result;
 
-	if (species == SPECIES_UNOWN)
-	{
-		u16 letter = GetUnownLetterFromPersonality(personality);
-		if (letter == 0)
-			letter = SPECIES_UNOWN;
-		else
-			letter += (SPECIES_UNOWN_B - 1);
-		result = letter;
-	}
+	if (species > NUM_SPECIES)
+		result = 0;
 	else
-	{
-		if (species > NUM_SPECIES)
-			result = 0;
-		else
-			result = species;
-	}
+		result = species;
 
 	return result;
 }

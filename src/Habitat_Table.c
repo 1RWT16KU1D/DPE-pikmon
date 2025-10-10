@@ -33,7 +33,7 @@ const u16 gGrasslandPage3[] =
 	SPECIES_HONEYWISP,
 	SPECIES_DANDELFLY,
 	SPECIES_DANDELFLY_MEGA,
-	SPECIES_SUNSQUISH,
+	SPECIES_SUNQUISH,
 };
 
 const u16 gGrasslandPage4[] =
@@ -60,8 +60,8 @@ const u16 gGrasslandPage6[] =
 const u16 gGrasslandPage7[] =
 {
 	SPECIES_MOCKIWI,
-	SPECIES_CRESDTEDMOCKIWI,
-	SPECIES_ELONGATERCRUSHBLAT,
+	SPECIES_CRESTEDMOCKIWI,
+	SPECIES_ELONGATEDCRUSHBLAT,
 };
 
 const u16 gGrasslandPage8[] =
@@ -122,7 +122,7 @@ const u16 gForestPage4[] =
 const u16 gForestPage5[] =
 {
 	SPECIES_SKITTERLEAF,
-	SPECIES_DESICCATEDSKITTTERLEAF,
+	SPECIES_DESICCATEDSKITTERLEAF,
 };
 
 const u16 gForestPage6[] =
@@ -392,7 +392,7 @@ const u16 gMountainPage1[] =
 const u16 gMountainPage2[] =
 {
 	SPECIES_SNOWBULBORB,
-	SPECIES_FROSTYDWARFBULBORB,
+	SPECIES_DWARFFROSTYBULBORB,
 	SPECIES_FROSTYBULBORB,
 };
 
@@ -639,23 +639,23 @@ const u16 gRarePage12[] =
 	SPECIES_KIRBY_FAIRY,
 };
 
-const u16 gRarePage12[] =
+const u16 gRarePage13[] =
 {
 	SPECIES_PLACEHOLDERLARVA,
 };
 
-const u16 gRarePage12[] =
+const u16 gRarePage14[] =
 {
-	SPECIES_KIRBY_DEMO77,
-	SPECIES_KIRBY_USUBA,
-	SPECIES_KIRBY_KAKUREIMO,
+	SPECIES_DEMO77,
+	SPECIES_USUBA,
+	SPECIES_KAKUREIMO,
 };
 
-const u16 gRarePage12[] =
+const u16 gRarePage15[] =
 {
-	SPECIES_KIRBY_PIKUTABE,
-	SPECIES_KIRBY_NAMAPONGASHI,
-	SPECIES_KIRBY_CHAPPYPROTO,
+	SPECIES_PIKUTABE,
+	SPECIES_NAMAPONGASHI,
+	SPECIES_CHAPPYPROTO,
 };
 
 const struct HabitatPage gGrasslandPages[] =
@@ -777,7 +777,6 @@ const struct HabitatPage gRarePages[] =
 	{gRarePage1, ARRAY_COUNT(gRarePage1)},
 	{gRarePage2, ARRAY_COUNT(gRarePage2)},
 	{gRarePage3, ARRAY_COUNT(gRarePage3)},
-	{gRarePage4, ARRAY_COUNT(gRarePage4)},
 	{gRarePage5, ARRAY_COUNT(gRarePage5)},
 	{gRarePage6, ARRAY_COUNT(gRarePage6)},
 	{gRarePage7, ARRAY_COUNT(gRarePage7)},

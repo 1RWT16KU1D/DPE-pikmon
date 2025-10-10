@@ -1504,7 +1504,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 300,
 		.trainerOffset = 1,
 	},
-	[NATIONAL_DEX_SANDBELCKINGMEERSLUG] =
+	[NATIONAL_DEX_SANDBELCHINGMEERSLUG] =
 	{
 		.categoryName = {_E, _l, _e, _c, _t, _r, _i, _c, _END, _SPACE, _SPACE, _SPACE},
 		.height = 11,
@@ -1924,7 +1924,7 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
-	[NATIONAL_DEX_BLADEDBEED] =
+	[NATIONAL_DEX_BLADEDBEEB] =
 	{
 		.categoryName = {_B, _i, _g, _SPACE, _J, _a, _w, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 23,

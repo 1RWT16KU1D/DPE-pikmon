@@ -518,7 +518,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x65,
 		.y_offset = 0x0,
 	},
-	[SPECIES_CHILLHOP] =
+	[SPECIES_CHILLYHOP] =
 	{
 		.size = 0x87,
 		.y_offset = 0x0,
@@ -678,7 +678,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x66,
 		.y_offset = 0x0,
 	},
-	[SPECIES_WHIPTONGUWBULBORB] =
+	[SPECIES_WHIPTONGUEBULBORB] =
 	{
 		.size = 0x87,
 		.y_offset = 0x0,
@@ -783,7 +783,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x76,
 		.y_offset = 0x0,
 	},
-	[SPECIES_LARGENOUTHWOLLYHOP] =
+	[SPECIES_LARGEMOUTHWOLLYHOP] =
 	{
 		.size = 0x87,
 		.y_offset = 0x0,
@@ -981,7 +981,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
-	[SPECIES_GILDEMANDWER_NOGOLD] =
+	[SPECIES_GILDEMANDER_NOGOLD] =
 	{
 		.size = 0x88,
 		.y_offset = 0x0,
@@ -1206,7 +1206,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
-	[SPECIES_GIANTBRADBUG_MEGA] =
+	[SPECIES_GIANTBREADBUG_MEGA] =
 	{
 		.size = 0x88,
 		.y_offset = 0x0,
