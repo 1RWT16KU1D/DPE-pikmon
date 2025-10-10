@@ -59,39 +59,32 @@ const u16 gGrasslandPage6[] =
 
 const u16 gGrasslandPage7[] =
 {
-	SPECIES_TANGELA,
-	SPECIES_SUNKERN,
-	SPECIES_SUNFLORA,
-};
-
-const u16 gGrasslandPage8[] =
-{
 	SPECIES_MOCKIWI,
 	SPECIES_CRESDTEDMOCKIWI,
 	SPECIES_ELONGATERCRUSHBLAT,
 };
 
-const u16 gGrasslandPage9[] =
+const u16 gGrasslandPage8[] =
 {
 	SPECIES_ARMOREDMAWDAD,
 	SPECIES_ARMOREDMAWDAD_MEGA,
 };
 
-const u16 gGrasslandPage10[] =
+const u16 gGrasslandPage9[] =
 {
 	SPECIES_SPECTRALID,
 	SPECIES_SPECTRALID_RED,
 	SPECIES_SPECTRALID_YELLOW,
 };
 
-const u16 gGrasslandPage11[] =
+const u16 gGrasslandPage10[] =
 {
 	SPECIES_SPECTRALID_UNMARKED,
 	SPECIES_SPECTRALID_UNMARKEDRED,
 	SPECIES_SPECTRALID_UNMARKEDPURPLE,
 };
 
-const u16 gGrasslandPage12[] =
+const u16 gGrasslandPage11[] =
 {
 	SPECIES_SPECTRALID_ELECTRIC,
 	SPECIES_SPECTRALID_HEY0,
@@ -358,6 +351,7 @@ const u16 gCavePage7[] =
 	SPECIES_PYROCLASTICSLOOCH,
 	SPECIES_SCORCHCAKE,
 	SPECIES_FIERYBULBLAX,
+	SPECIES_FIREFLAPBULBORB,
 };
 
 const u16 gCavePage8[] =
@@ -676,7 +670,6 @@ const struct HabitatPage gGrasslandPages[] =
 	{gGrasslandPage9, ARRAY_COUNT(gGrasslandPage9)},
 	{gGrasslandPage10, ARRAY_COUNT(gGrasslandPage10)},
 	{gGrasslandPage11, ARRAY_COUNT(gGrasslandPage11)},
-	{gGrasslandPage12, ARRAY_COUNT(gGrasslandPage12)},
 };
 
 const struct HabitatPage gForestPages[] =
