@@ -268,5 +268,5 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_PURPLEPIKMIN_MEGA] =         	{gFrontSprite143PurplePikminMegaPal, 		SPECIES_PURPLEPIKMIN_MEGA , 0x0},
 	[SPECIES_ICEPIKMIN_MEGA] =         	{gFrontSprite147IcePikminMegaPal, 		SPECIES_ICEPIKMIN_MEGA , 0x0},
 	[SPECIES_GLOWPIKMIN_MEGA] =         	{gFrontSprite149GlowPikminMegaPal, 		SPECIES_GLOWPIKMIN_MEGA , 0x0},
-	[SPECIES_MOSS_MEGA] =         		{gFrontSprite151MossMegaPal, 			SPECIES_MOSS_MEGA , 0x0},
+	[SPECIES_MOSS_MEGA] =         		{gFrontSprite152MossPal, 			SPECIES_MOSS_MEGA , 0x0},
 };

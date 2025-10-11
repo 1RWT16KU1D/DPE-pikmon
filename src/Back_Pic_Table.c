@@ -249,7 +249,7 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_GLINTBEETLE_MEGA] =         	{gBackShinySprite012GlintBeetleMegaTiles, 	(64 * 64) / 2, SPECIES_GLINTBEETLE_MEGA},
 	[SPECIES_GIANTBREADBUG_MEGA] =         	{gBackShinySprite021GiantBreadbugMegaTiles, 	(64 * 64) / 2, SPECIES_GIANTBREADBUG_MEGA},
 	[SPECIES_SOVREIGNBULBLAX_MEGA] =       	{gBackShinySprite023SovreignBulblaxMegaTiles, 	(64 * 64) / 2, SPECIES_SOVREIGNBULBLAX_MEGA},
-	[SPECIES_DANDELFLY_MEGA] =         	{gBackShinySprite027DandelflyMegaTiles, 	(64 * 64) / 2, SPECIES_DANDELFLY_MEGA},
+	[SPECIES_DANDELFLY_MEGA] =         	{gBackShinySprite027DandelflyTiles, 	(64 * 64) / 2, SPECIES_DANDELFLY_MEGA},
 	[SPECIES_PILEATEDSNAGRET_MEGA] =       	{gBackShinySprite030PileatedSnagretMegaTiles, 	(64 * 64) / 2, SPECIES_PILEATEDSNAGRET_MEGA},
 	[SPECIES_ADULTBULBMIN_MEGAB] =         	{gBackShinySprite059AdultBulbminMegaBTiles, 	(64 * 64) / 2, SPECIES_ADULTBULBMIN_MEGAB},
 	[SPECIES_ADULTBULBMIN_MEGAS] =         	{gBackShinySprite059AdultBulbminMegaSTiles, 	(64 * 64) / 2, SPECIES_ADULTBULBMIN_MEGAS},
@@ -268,5 +268,5 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_PURPLEPIKMIN_MEGA] =         	{gBackShinySprite143PurplePikminMegaTiles, 	(64 * 64) / 2, SPECIES_PURPLEPIKMIN_MEGA},
 	[SPECIES_ICEPIKMIN_MEGA] =         	{gBackShinySprite147IcePikminMegaTiles, 	(64 * 64) / 2, SPECIES_ICEPIKMIN_MEGA},
 	[SPECIES_GLOWPIKMIN_MEGA] =         	{gBackShinySprite149GlowPikminMegaTiles, 	(64 * 64) / 2, SPECIES_GLOWPIKMIN_MEGA},
-	[SPECIES_MOSS_MEGA] =         		{gBackShinySprite151MossMegaTiles, 		(64 * 64) / 2, SPECIES_MOSS_MEGA},
+	[SPECIES_MOSS_MEGA] =         		{gBackShinySprite152MossTiles, 		(64 * 64) / 2, SPECIES_MOSS_MEGA},
 };

@@ -268,5 +268,5 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_PURPLEPIKMIN_MEGA] =         	{gFrontSprite143PurplePikminMegaTiles, 	(64 * 64) / 2, SPECIES_PURPLEPIKMIN_MEGA},
 	[SPECIES_ICEPIKMIN_MEGA] =         	{gFrontSprite147IcePikminMegaTiles, 	(64 * 64) / 2, SPECIES_ICEPIKMIN_MEGA},
 	[SPECIES_GLOWPIKMIN_MEGA] =         	{gFrontSprite149GlowPikminMegaTiles, 	(64 * 64) / 2, SPECIES_GLOWPIKMIN_MEGA},
-	[SPECIES_MOSS_MEGA] =         		{gFrontSprite151MossMegaTiles, 		(64 * 64) / 2, SPECIES_MOSS_MEGA},
+	[SPECIES_MOSS_MEGA] =         		{gFrontSprite152MossTiles, 		(64 * 64) / 2, SPECIES_MOSS_MEGA},
 };

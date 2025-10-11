@@ -268,27 +268,12 @@ def TryProcessConditionalCompilation(line: str, definesDict: dict, conditionals:
 
     return False
 
-def ExpandROMTo32MB(rom_path):
-    TARGET_SIZE = 32 * 1024 * 1024  # 32MB
-    if not os.path.exists(rom_path):
-        print(f"[!] ROM '{rom_path}' not found for expansion.")
-        return
-    with open(rom_path, "rb+") as f:
-        f.seek(0, os.SEEK_END)
-        current_size = f.tell()
-        if current_size >= TARGET_SIZE:
-            print(f"[✓] ROM is already {current_size // (1024 * 1024)}MB! Good.")
-            return
-        padding = TARGET_SIZE - current_size
-        f.write(b'\xFF' * padding)
-        print(f"ROM expanded from {current_size // (1024 * 1024)}MB to 32MB.")
 
 def main():
     startTime = datetime.now()
 
     try:
         shutil.copyfile(SOURCE_ROM, ROM_NAME)
-        ExpandROMTo32MB(ROM_NAME)
     except FileNotFoundError:
         print('Error: Insertion could not be completed.\n'
               + 'Could not find source rom: "' + SOURCE_ROM + '".\n'
