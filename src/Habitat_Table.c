@@ -785,6 +785,9 @@ const struct HabitatPage gRarePages[] =
 	{gRarePage10, ARRAY_COUNT(gRarePage10)},
 	{gRarePage11, ARRAY_COUNT(gRarePage11)},
 	{gRarePage12, ARRAY_COUNT(gRarePage12)},
+	{gRarePage12, ARRAY_COUNT(gRarePage13)},
+	{gRarePage12, ARRAY_COUNT(gRarePage14)},
+	{gRarePage12, ARRAY_COUNT(gRarePage15)},
 };
 
 const struct Habitat gHabitatPtrsTable[9] =
@@ -797,4 +800,6 @@ const struct Habitat gHabitatPtrsTable[9] =
 	{gMountainPages, ARRAY_COUNT(gMountainPages)},
 	{gRoughTerrainPages, ARRAY_COUNT(gRoughTerrainPages)},
 	{gUrbanPages, ARRAY_COUNT(gUrbanPages)},
+	{gRarePages, ARRAY_COUNT(gRarePages)},
+
 };
