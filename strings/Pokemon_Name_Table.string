@@ -552,7 +552,7 @@ AsmbldCrg
 RmbrOldBdy
 
 #org @NAME_BULBORBWITHAGUN
-BorbW Gun
+BorbWthGun
 
 #org @NAME_KIRBY
 Kirby

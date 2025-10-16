@@ -21,6 +21,8 @@ extern u8 gCry018FrostyBulborb[];
 extern u8 gCry019Crumbug[];
 extern u8 gCry020Breadbug[];
 extern u8 gCry021GiantBreadbug[];
+extern u8 gCry022EmperorBulblax[];
+extern u8 gCry023SovreignBulblax[];
 extern u8 gCry024DwarfBulbear[];
 extern u8 gCry025SpottyBulbear[];
 extern u8 gCry026Honeywisp[];
