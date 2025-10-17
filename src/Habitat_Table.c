@@ -299,6 +299,14 @@ const u16 gSeaPage10[] =
 	SPECIES_TITANDWEEVIL,
 };
 
+const u16 gSeaPage12[] =
+{
+	SPECIES_TITANDWEEVIL_ELECTRIC,
+	SPECIES_TITANDWEEVIL_FIRE,
+	SPECIES_TITANDWEEVIL_POISON,
+	SPECIES_TITANDWEEVIL_WATER,
+};
+
 const u16 gSeaPage11[] =
 {
 	SPECIES_REMEMBEREDOLDBUDDY,
@@ -583,7 +591,13 @@ const u16 gRarePage3[] =
 const u16 gRarePage5[] =
 {
 	SPECIES_OATCHI,
+	SPECIES_OATCHI_MEGA,
 	SPECIES_MOSS,
+	SPECIES_MOSS_MEGA,
+};
+
+const u16 gRarePage4[] =
+{
 	SPECIES_ANCIENTSIREHOUND,
 };
 
@@ -713,6 +727,7 @@ const struct HabitatPage gSeaPages[] =
 	{gSeaPage8, ARRAY_COUNT(gSeaPage8)},
 	{gSeaPage9, ARRAY_COUNT(gSeaPage9)},
 	{gSeaPage10, ARRAY_COUNT(gSeaPage10)},
+	{gSeaPage12, ARRAY_COUNT(gSeaPage12)},
 	{gSeaPage11, ARRAY_COUNT(gSeaPage11)},
 };
 
@@ -778,6 +793,7 @@ const struct HabitatPage gRarePages[] =
 	{gRarePage2, ARRAY_COUNT(gRarePage2)},
 	{gRarePage3, ARRAY_COUNT(gRarePage3)},
 	{gRarePage5, ARRAY_COUNT(gRarePage5)},
+	{gRarePage4, ARRAY_COUNT(gRarePage4)},
 	{gRarePage6, ARRAY_COUNT(gRarePage6)},
 	{gRarePage7, ARRAY_COUNT(gRarePage7)},
 	{gRarePage8, ARRAY_COUNT(gRarePage8)},
@@ -785,9 +801,9 @@ const struct HabitatPage gRarePages[] =
 	{gRarePage10, ARRAY_COUNT(gRarePage10)},
 	{gRarePage11, ARRAY_COUNT(gRarePage11)},
 	{gRarePage12, ARRAY_COUNT(gRarePage12)},
-	{gRarePage12, ARRAY_COUNT(gRarePage13)},
-	{gRarePage12, ARRAY_COUNT(gRarePage14)},
-	{gRarePage12, ARRAY_COUNT(gRarePage15)},
+	{gRarePage13, ARRAY_COUNT(gRarePage13)},
+	{gRarePage14, ARRAY_COUNT(gRarePage14)},
+	{gRarePage15, ARRAY_COUNT(gRarePage15)},
 };
 
 const struct Habitat gHabitatPtrsTable[9] =

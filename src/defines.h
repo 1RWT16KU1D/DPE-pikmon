@@ -96,7 +96,7 @@ extern const u8 gText_Region[];
 #define gText_PokemonList (void*)0x8415EFB
 #define gText_NumericalMode (void*)0x8415E95
 #define gText_PokemonHabitats (void*)0x8415DE0
-#define gText_DexCategory_GrasslandPkmn (void*)0x8415DF7 
+extern const u8 gText_DexCategory_GrasslandPkmn[];
 #define gText_DexCategory_ForestPkmn (void*)0x8415E09 
 #define gText_DexCategory_WatersEdgePkmn (void*)0x8415E18 
 #define gText_DexCategory_SeaPkmn (void*)0x8415E2D 

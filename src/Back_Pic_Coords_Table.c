@@ -996,6 +996,26 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
+	[SPECIES_TITANDWEEVIL_ELECTRIC] =
+	{
+		.size = 0x65,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TITANDWEEVIL_FIRE] =
+	{
+		.size = 0x65,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TITANDWEEVIL_POISON] =
+	{
+		.size = 0x65,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TITANDWEEVIL_WATER] =
+	{
+		.size = 0x65,
+		.y_offset = 0x0,
+	},
 	[SPECIES_SMOKYPROGG_MASTER] =
 	{
 		.size = 0x88,
