@@ -1,2 +1,48 @@
+
+#org @gText_Seen
+SEEN
+
 #org @gText_Region
 PikMon
+
+#org @gText_Owned
+OWNED
+
+#org @gText_PokedexTableOfContents
+PIKLOPEDIA   TABLE OF CONTENTS
+
+#org @gText_PokemonList
+PIKMON LIST
+
+#org @gText_PokemonHabitats
+PIKMON HABITATS
+
+#org @gText_DexCategory_GrasslandPkmn
+GARDEN PIKMON
+
+#org @gText_DexCategory_ForestPkmn
+FOREST PIKMON
+
+#org @gText_DexCategory_WatersEdgePkmn
+SPRING PIKMON
+
+#org @gText_DexCategory_SeaPkmn
+DRAIN PIKMON
+
+#org @gText_DexCategory_CavePkmn
+CAVE PIKMON
+
+#org @gText_DexCategory_MountainPkmn
+TUNDRA PIKMON
+
+#org @gText_DexCategory_RoughTerrainPkmn
+TWILIGHT PIKMON
+
+#org @gText_DexCategory_UrbanPkmn
+HIDEAWAY PIKMON
+
+#org @gText_DexCategory_RarePkmn
+RARE PIKMON
+
+#org @gText_ClosePokedex
+CLOSE PIKLOPEDIA 

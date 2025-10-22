@@ -86,29 +86,29 @@ void __attribute__((long_call)) ItemPrintFunc_DexModeSelect(u8 windowId, u32 ite
 #define PIXEL_FILL(num) ((num) | ((num) << 4))
 #define NELEMS(arr) (sizeof(arr)/sizeof(*(arr)))
 
-#define gText_Seen (void*)0x87207A4
+extern const u8 gText_Seen[];
 extern const u8 gText_Region[];
-#define gText_Owned (void*)0x87207AC 
+extern const u8 gText_Owned[];
 #define gText_National (void*)0x8415DD7
-#define gText_PokedexTableOfContents (void*)0x8415D9C
+extern const u8 gText_PokedexTableOfContents[];
 #define gText_PickOK (void*)0x8415DB8
 
-#define gText_PokemonList (void*)0x8415EFB
+extern const u8 gText_PokemonList[];
 #define gText_NumericalMode (void*)0x8415E95
-#define gText_PokemonHabitats (void*)0x8415DE0
+extern const u8 gText_PokemonHabitats[];
 extern const u8 gText_DexCategory_GrasslandPkmn[];
-#define gText_DexCategory_ForestPkmn (void*)0x8415E09 
-#define gText_DexCategory_WatersEdgePkmn (void*)0x8415E18 
-#define gText_DexCategory_SeaPkmn (void*)0x8415E2D 
-#define gText_DexCategory_CavePkmn (void*)0x8415E39 
-#define gText_DexCategory_MountainPkmn (void*)0x8415E46 
-#define gText_DexCategory_RoughTerrainPkmn (void*)0x8415E57 
-#define gText_DexCategory_UrbanPkmn (void*)0x8415E6D 
-#define gText_DexCategory_RarePkmn (void*)0x8415E7B 
+extern const u8 gText_DexCategory_ForestPkmn[];
+extern const u8 gText_DexCategory_WatersEdgePkmn[];
+extern const u8 gText_DexCategory_SeaPkmn[];
+extern const u8 gText_DexCategory_CavePkmn[];
+extern const u8 gText_DexCategory_MountainPkmn[];
+extern const u8 gText_DexCategory_RoughTerrainPkmn[];
+extern const u8 gText_DexCategory_UrbanPkmn[];
+extern const u8 gText_DexCategory_RarePkmn[]; 
 #define gText_Search (void*)0x8415E88 
 #define gText_AToZMode (void*)0x8415EA4 
 #define gText_PokedexOther (void*)0x8415EB0 
-#define gText_ClosePokedex (void*)0x8415EC7 
+extern const u8 gText_ClosePokedex[];
 #define gText_TypeMode (void*)0x8415ED5 
 #define gText_LightestMode (void*)0x8415EDF 
 #define gText_SmallestMode (void*)0x8415EED 
