@@ -213,6 +213,8 @@ const u32* GetFrontSpritePalFromSpeciesAndPersonality(u16 species, u32 otId, u32
 {
 	u32 shinyValue;
 	
+	return (u32*) gMonShinyPaletteTable[species].data;
+
 	if (species > NUM_SPECIES)
 		return (u32*) gMonPaletteTable[0].data;
 
