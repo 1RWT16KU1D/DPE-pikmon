@@ -213,7 +213,7 @@ const u32* GetFrontSpritePalFromSpeciesAndPersonality(u16 species, u32 otId, u32
 {
 	u32 shinyValue;
 	
-	return (u32*) gMonShinyPaletteTable[species].data;
+	//return (u32*) gMonShinyPaletteTable[species].data;
 
 	if (species > NUM_SPECIES)
 		return (u32*) gMonPaletteTable[0].data;
@@ -460,24 +460,22 @@ static u16 LoadNationalPokedexView(void)
 }
 void DexScreen_PrintNum3LeadingZeroes(u8 windowId, u8 fontId, u16 num, u8 x, u8 y, u8 colorIdx)
 {
-    u8 buff[5];
-    buff[0] = (num / 1000) + _0;
-    buff[1] = ((num %= 1000) / 100) + _0;
-    buff[2] = ((num %= 100) / 10) + _0;
-    buff[3] = (num % 10) + _0;
-    buff[4] = _END;
+    u8 buff[4];
+    buff[0] = ((num %= 1000) / 100) + _0;
+    buff[1] = ((num %= 100) / 10) + _0;
+    buff[2] = (num % 10) + _0;
+    buff[3] = _END;
     DexScreen_AddTextPrinterParameterized(windowId, fontId, buff, x, y, colorIdx);
 }
 
 void DexScreen_PrintNum3RightAlign(u8 windowId, u8 fontId, u16 num, u8 x, u8 y, u8 colorIdx)
 {
-    u8 buff[5];
+    u8 buff[4];
     int i;
-    buff[0] = (num / 1000) + _0;
-    buff[1] = ((num %= 1000) / 100) + _0;
-    buff[2] = ((num %= 100) / 10) + _0;
-    buff[3] = (num % 10) + _0;
-    buff[4] = _END;
+    buff[0] = ((num %= 1000) / 100) + _0;
+    buff[1] = ((num %= 100) / 10) + _0;
+    buff[2] = (num % 10) + _0;
+    buff[3] = _END;
     for (i = 0; i < 3; i++)
     {
         if (buff[i] != _0)

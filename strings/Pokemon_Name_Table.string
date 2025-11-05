@@ -734,6 +734,9 @@ Masterhop
 #org @NAME_GLINTBEETLE_MEGA
 GlntBeetle
 
+#org @NAME_DIRIGIBUG_MEGA
+Dirigibug
+
 #org @NAME_GIANTBREADBUG_MEGA
 GtBreadbug
 
@@ -746,6 +749,9 @@ Dandefly
 #org @NAME_PILEATEDSNAGRET_MEGA
 P.Snagret
 
+#org @NAME_DESICCATEDSKITTERLEAF_MEGA
+DSkterleaf
+
 #org @NAME_ADULTBULBMIN_MEGAB
 AdtBulbmin
 
@@ -755,11 +761,44 @@ AdtBulbmin
 #org @NAME_MANATLEGS_MEGA
 ManAtLegs
 
+#org @NAME_VEHEAMOTHPHOSBAT_MEGA
+V.Phosbat
+
+#org @NAME_PYROCLASTICSLOOCH_MEGA
+PyroSlooch
+
+#org @NAME_GREATERSPOTTEDJELLYFLOAT_MEGA
+GtrJelyflt
+
+#org @NAME_SNOWFLAKEFLUTTERTAIL_MEGA
+FluttrTail
+
+#org @NAME_BOGSWALLOW_MEGA
+Bogswallow
+
 #org @NAME_PUFFMIN_MEGA
 Puffmin
 
+#org @NAME_SCORCHCAKE_MEGA
+Scorchcake
+
+#org @NAME_PUFFSTOOL_MEGA
+Puffstool
+
 #org @NAME_EMPRESSBULBLAX_MEGA
 EmpressBlx
+
+#org @NAME_MUCKERSKATE_MEGA
+Muckerskat
+
+#org @NAME_GROOVYLONGLEGS_MEGA
+GroovLngLg
+
+#org @NAME_CRUSTEDRUMPUP_MEGA
+Rumpup
+
+#org @NAME_GATTLINGGROINK_MEGA
+Groink
 
 #org @NAME_ARMOREDMAWDAD_MEGA
 Mawdad
@@ -799,3 +838,6 @@ GlowPikmin
 
 #org @NAME_MOSS_MEGA
 Moss
+
+#org @NAME_WATERYBLOWHOG_MEGA
+WtrBlowhog

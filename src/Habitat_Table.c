@@ -103,6 +103,7 @@ const u16 gForestPage2[] =
 	SPECIES_SWOOPINGSNITCHBUG,
 	SPECIES_BUMBLINGSNITCHBUG,
 	SPECIES_DIRIGIBUG,
+	SPECIES_DIRIGIBUG_MEGA,
 };
 
 const u16 gForestPage3[] =
@@ -123,6 +124,7 @@ const u16 gForestPage5[] =
 {
 	SPECIES_SKITTERLEAF,
 	SPECIES_DESICCATEDSKITTERLEAF,
+	SPECIES_DESICCATEDSKITTERLEAF_MEGA,
 };
 
 const u16 gForestPage6[] =
@@ -178,8 +180,8 @@ const u16 gWatersEdgePage2[] =
 {
 	SPECIES_SKUTTERCHUCK,
 	SPECIES_CALCIFIEDCRUSHBLAT,
-	SPECIES_SKEETERSKATE,
-	SPECIES_MUCKERSKATE,
+	SPECIES_ARISTOCRABOFFSPRING,
+	SPECIES_ARISTOCRAB,
 };
 
 const u16 gWatersEdgePage3[] =
@@ -192,8 +194,9 @@ const u16 gWatersEdgePage3[] =
 
 const u16 gWatersEdgePage4[] =
 {
-	SPECIES_ARISTOCRABOFFSPRING,
-	SPECIES_ARISTOCRAB,
+	SPECIES_SKEETERSKATE,
+	SPECIES_MUCKERSKATE,
+	SPECIES_MUCKERSKATE_MEGA,
 };
 
 const u16 gWatersEdgePage5[] =
@@ -220,6 +223,7 @@ const u16 gWatersEdgePage7[] =
 const u16 gWatersEdgePage8[] =
 {
 	SPECIES_CRUSTEDRUMPUP,
+	SPECIES_CRUSTEDRUMPUP_MEGA,
 };
 
 const u16 gWatersEdgePage9[] =
@@ -259,12 +263,13 @@ const u16 gSeaPage4[] =
 {
 	SPECIES_LESSERSPOTTEDJELLYFLOAT,
 	SPECIES_GREATERSPOTTEDJELLYFLOAT,
-	SPECIES_TOADYBLOYSTER,
-	SPECIES_RANGINGBLOYSTER,
+	SPECIES_GREATERSPOTTEDJELLYFLOAT_MEGA,
 };
 
 const u16 gSeaPage5[] =
 {
+	SPECIES_TOADYBLOYSTER,
+	SPECIES_RANGINGBLOYSTER,
 	SPECIES_WATERDUMPLE,
 	SPECIES_LONGWATERDUMPLE,
 };
@@ -274,6 +279,7 @@ const u16 gSeaPage6[] =
 	SPECIES_WOLLYHOP,
 	SPECIES_CHILLYHOP,
 	SPECIES_WATERYBLOWHOG,
+	SPECIES_WATERYBLOWHOG_MEGA,
 };
 
 const u16 gSeaPage7[] =
@@ -331,6 +337,7 @@ const u16 gCavePage3[] =
 {
 	SPECIES_PHOSBAT,
 	SPECIES_VEHEAMOTHPHOSBAT,
+	SPECIES_VEHEAMOTHPHOSBAT_MEGA,
 };
 
 const u16 gCavePage4[] =
@@ -344,6 +351,7 @@ const u16 gCavePage5[] =
 	SPECIES_BEADYLONGLEGS,
 	SPECIES_RAGINGLONGLEGS,
 	SPECIES_GROOVYLONGLEGS,
+	SPECIES_GROOVYLONGLEGS_MEGA,
 };
 
 const u16 gCavePage6[] =
@@ -351,13 +359,24 @@ const u16 gCavePage6[] =
 	SPECIES_VOLATILEDWEEVIL,
 	SPECIES_MANATLEGS,
 	SPECIES_MANATLEGS_MEGA,
+};
+
+const u16 gCavePage13[] =
+{
 	SPECIES_GATTLINGGROINK,
+	SPECIES_GATTLINGGROINK_MEGA,
 };
 
 const u16 gCavePage7[] =
 {
 	SPECIES_PYROCLASTICSLOOCH,
+	SPECIES_PYROCLASTICSLOOCH_MEGA,
 	SPECIES_SCORCHCAKE,
+	SPECIES_SCORCHCAKE_MEGA,
+};
+
+const u16 gCavePage12[] =
+{
 	SPECIES_FIERYBULBLAX,
 	SPECIES_FIREFLAPBULBORB,
 };
@@ -425,6 +444,7 @@ const u16 gMountainPage5[] =
 const u16 gMountainPage6[] =
 {
 	SPECIES_SNOWFLAKEFLUTTERTAIL,
+	SPECIES_SNOWFLAKEFLUTTERTAIL_MEGA,
 };
 
 const u16 gMountainPage7[] =
@@ -460,8 +480,13 @@ const u16 gRoughTerrainPage2[] =
 {
 	SPECIES_PUFFMIN,
 	SPECIES_PUFFMIN_MEGA,
+};
+
+const u16 gRoughTerrainPage10[] =
+{
 	SPECIES_PUFFSTALK,
 	SPECIES_PUFFSTOOL,
+	SPECIES_PUFFSTOOL_MEGA,
 };
 
 const u16 gRoughTerrainPage3[] =
@@ -484,6 +509,7 @@ const u16 gRoughTerrainPage5[] =
 const u16 gRoughTerrainPage6[] =
 {
 	SPECIES_BOGSWALLOW,
+	SPECIES_BOGSWALLOW_MEGA,
 };
 
 const u16 gRoughTerrainPage7[] =
@@ -676,6 +702,7 @@ const struct HabitatPage gGrasslandPages[] =
 {
 	{gGrasslandPage1, ARRAY_COUNT(gGrasslandPage1)},
 	{gGrasslandPage2, ARRAY_COUNT(gGrasslandPage2)},
+	{gGrasslandPage3, ARRAY_COUNT(gGrasslandPage3)},
 	{gGrasslandPage4, ARRAY_COUNT(gGrasslandPage4)},
 	{gGrasslandPage5, ARRAY_COUNT(gGrasslandPage5)},
 	{gGrasslandPage6, ARRAY_COUNT(gGrasslandPage6)},
@@ -739,7 +766,9 @@ const struct HabitatPage gCavePages[] =
 	{gCavePage4, ARRAY_COUNT(gCavePage4)},
 	{gCavePage5, ARRAY_COUNT(gCavePage5)},
 	{gCavePage6, ARRAY_COUNT(gCavePage6)},
+	{gCavePage13, ARRAY_COUNT(gCavePage13)},
 	{gCavePage7, ARRAY_COUNT(gCavePage7)},
+	{gCavePage12, ARRAY_COUNT(gCavePage12)},
 	{gCavePage8, ARRAY_COUNT(gCavePage8)},
 	{gCavePage9, ARRAY_COUNT(gCavePage9)},
 	{gCavePage10, ARRAY_COUNT(gCavePage10)},
@@ -764,6 +793,7 @@ const struct HabitatPage gRoughTerrainPages[] =
 {
 	{gRoughTerrainPage1, ARRAY_COUNT(gRoughTerrainPage1)},
 	{gRoughTerrainPage2, ARRAY_COUNT(gRoughTerrainPage2)},
+	{gRoughTerrainPage10, ARRAY_COUNT(gRoughTerrainPage10)},
 	{gRoughTerrainPage3, ARRAY_COUNT(gRoughTerrainPage3)},
 	{gRoughTerrainPage4, ARRAY_COUNT(gRoughTerrainPage4)},
 	{gRoughTerrainPage5, ARRAY_COUNT(gRoughTerrainPage5)},
