@@ -6,7 +6,7 @@ FILL_FF=True
 ??????
 
 #org @NAME_BULBORBLARVA
-BlbrbLarva
+BulborbLarva
 
 #org @NAME_BULBORB
 RedBulborb
@@ -15,13 +15,13 @@ RedBulborb
 JumboBorb
 
 #org @NAME_FIERYBLOWLET
-FryBlowlet
+FieryBlowlet
 
 #org @NAME_FIERYBLOWHOG
-FryBlowhog
+FieryBlowhog
 
 #org @NAME_TITANBLOWHOG
-TtnBlowhog
+TitanBlowhog
 
 #org @NAME_WOLPOLE
 Wolpole
@@ -33,31 +33,31 @@ Y.Wollyhop
 Masterhop
 
 #org @NAME_FLINTBEETLE
-FlntBeetle
+FlintBeetle
 
 #org @NAME_DOODLEBUG
 Doodlebug
 
 #org @NAME_GLINTBEETLE
-GlntBeetle
+GlintBeetle
 
 #org @NAME_SWOOPINGSNITCHBUG
-Snitchbug
+S.Snitchbug
 
 #org @NAME_BUMBLINGSNITCHBUG
-BumbleSBug
+BumblingSBug
 
 #org @NAME_DIRIGIBUG
 Dirigibug
 
 #org @NAME_SNOWBULBORB
-SnowBorb
+SnowBulborb
 
 #org @NAME_DWARFFROSTYBULBORB
 DwarfFrost
 
 #org @NAME_FROSTYBULBORB
-FrostyBorb
+FrostBulborb
 
 #org @NAME_CRUMBUG
 Crumbug
@@ -69,13 +69,13 @@ Breadbug
 GtBreadbug
 
 #org @NAME_EMPERORBULBLAX
-EmperorBlx
+EmperorBlblx
 
 #org @NAME_SOVREIGBULBLAX
-SvreignBlx
+SvreignBlblx
 
 #org @NAME_DWARFBULBEAR
-DwfBulbear
+DwarfBulbear
 
 #org @NAME_SPOTTYBULBEAR
 Bulbear
@@ -87,7 +87,7 @@ Honeywisp
 Dandelfly
 
 #org @NAME_DOWNYSNAGRET
-DwnySnagrt
+DownySnagret
 
 #org @NAME_BURROWINGSNAGRET
 B.Snagret
@@ -114,7 +114,7 @@ Shearwig
 Q.Shearwig
 
 #org @NAME_ARISTOCRABOFFSPRING
-YngArstcrb
+YoungArstcrb
 
 #org @NAME_ARISTOCRAB
 Aristocrab
@@ -126,67 +126,67 @@ Goolix
 Foolix
 
 #org @NAME_ARCTICCANNONLARVA
-ArticLarva
+ArcticLarva
 
 #org @NAME_ARCTICCANNONBEETLE
-ArticBetle
+ArcticBeetle
 
 #org @NAME_SKITTERLEAF
-Skiterleaf
+Skitterleaf
 
 #org @NAME_DESICCATEDSKITTERLEAF
-DSkterleaf
+D.Skiterleaf
 
 #org @NAME_ARMOREDCANNONLARVA
 ArmorLarva
 
 #org @NAME_ARMOREDCANNONBEETLE
-ArmorBetle
+ArmorBeetle
 
 #org @NAME_HORNEDCANNONBEETLE
-HorndBetle
+HornedBeetle
 
 #org @NAME_CREEPINGCHRYSANTHEMUM
-Crysnthmum
+Crysanthymum
 
 #org @NAME_STARTLESPORE
-StrtlSpore
+StartleSpore
 
 #org @NAME_HERMITCRAWMAD
-Crawmad
+HermtCrawmad
 
 #org @NAME_BUGEYEDCRAWMAD
-BECrawmad
+BgEyeCrawmad
 
 #org @NAME_DWARFBULBORB
-DwarfBorb
+DwarfBulborb
 
 #org @NAME_DWARFORANGEBULBORB
-OrngeDwarf
+OrangeDwarf
 
 #org @NAME_BEADYLONGLEGS
-BeadyLngLg
+BeadyLongLeg
 
 #org @NAME_RAGINGLONGLEGS
-RageLngLg
+RageLongLeg
 
 #org @NAME_BALDYLONGLEGS
-BaldyLngLg
+BaldyLongLeg
 
 #org @NAME_SHAGGYLONGLEGS
-ShagyLngLg
+ShagyLongLeg
 
 #org @NAME_BULBMIN
 Bulbmin
 
 #org @NAME_ADULTBULBMIN
-AdtBulbmin
+AdultBulbmin
 
 #org @NAME_SCORNET
 Scornet
 
 #org @NAME_SCORNETMAESTRO
-SntMaestro
+ScrntMaestro
 
 #org @NAME_BURROWNIT
 BurrowNit
@@ -195,7 +195,7 @@ BurrowNit
 Joustmite
 
 #org @NAME_FLIGHTYJOUSTMITE
-FltyJstmit
+FltyJoustmit
 
 #org @NAME_VOLATILEDWEEVIL
 V.Dweevil
@@ -204,19 +204,19 @@ V.Dweevil
 ManAtLegs
 
 #org @NAME_SKUTTERCHUCK
-Skuterchuk
+Skutterchuk
 
 #org @NAME_CALCIFIEDCRUSHBLAT
-C.Crushblt
+C.Crushblat
 
 #org @NAME_ARACHNODE
 Arachnode
 
 #org @NAME_MOLDYDWARFBULBORB
-MoldBorb
+MoldyBulborb
 
 #org @NAME_MOLDYSLOOCH
-MoldSlooch
+MoldySlooch
 
 #org @NAME_TOXSTOOL
 Toxstool
@@ -231,10 +231,10 @@ V.Phosbat
 Blinnow
 
 #org @NAME_SPUTTLEFISH
-Sputtlefsh
+Sputtlefish
 
 #org @NAME_PRICKLEPUFF
-Prcklepuff
+Pricklepuff
 
 #org @NAME_UJADANI
 Ujadani
@@ -243,25 +243,25 @@ Ujadani
 Mitite
 
 #org @NAME_WITHERINGBLOWHOG
-WthrBlowhg
+WithrBlowhog
 
 #org @NAME_PUFFYBLOWHOG
-PfyBlowhog
+PuffyBlowhog
 
 #org @NAME_MINIATURESNOOTWHACKER
-MintrSnoot
+MiniturSnoot
 
 #org @NAME_MAMMOTHSNOOTWHACKER
-MamthSnoot
+MammothSnoot
 
 #org @NAME_PYROCLASTICSLOOCH
 PyroSlooch
 
 #org @NAME_LESSERSPOTTEDJELLYFLOAT
-LsrJelyflt
+LsrJelyfloat
 
 #org @NAME_GREATERSPOTTEDJELLYFLOAT
-GtrJelyflt
+GtrJelyfloat
 
 #org @NAME_TOADYBLOYSTER
 T.Bloyster
@@ -270,37 +270,37 @@ T.Bloyster
 R.Bloyster
 
 #org @NAME_SNOWYBLOWHOG
-SnwBlowhog
+SnowyBlowhog
 
 #org @NAME_BLIZZARDINGBLOWHOG
-BlzdBlowhg
+BlzrdBlowhog
 
 #org @NAME_GILDEMANDWEE
-Gildmandwe
+Gildemandwee
 
 #org @NAME_GILDEMANDER
-Gildmander
+Gildemander
 
 #org @NAME_WADDLEQUAFF
-Waddlequaf
+Waddlequaff
 
 #org @NAME_GRUBCHUCKER
-Grubchuckr
+Grubchucker
 
 #org @NAME_PEARLYCLAMCLAMP
 Clamclamp
 
 #org @NAME_SUNQUISH
-Sunquish
+Sunsquish
 
 #org @NAME_PROQUILLION
-Porqullion
+Porquillion
 
 #org @NAME_TUSKEDBLOWHOG
-TskBlowhog
+TuskBlowhog
 
 #org @NAME_SNOWFLAKEFLUTTERTAIL
-FluttrTail
+FlutterTail
 
 #org @NAME_BOGSWALLOW
 Bogswallow
@@ -321,10 +321,10 @@ B.Bloyster
 Scorchcake
 
 #org @NAME_WATERDUMPLE
-WtrDumple
+WaterDumple
 
 #org @NAME_LONGWATERDUMPLE
-LngWDumple
+LongWDumple
 
 #org @NAME_MOCKIWI
 Mockiwi
@@ -333,7 +333,7 @@ Mockiwi
 C.Mockiwi
 
 #org @NAME_ELONGATEDCRUSHBLAT
-E.Crushblt
+E.Crushblat
 
 #org @NAME_PUFFSTALK
 Puffstalk
@@ -342,19 +342,19 @@ Puffstalk
 Puffstool
 
 #org @NAME_ANODEBEETLE
-AnodeBeetl
+AnodeBeetle
 
 #org @NAME_EMPRESSBULBLAX
-EmpressBlx
+EmpressBlblx
 
 #org @NAME_SKEETERSKATE
-Skeetrskat
+Skeeterskate
 
 #org @NAME_MUCKERSKATE
-Muckerskat
+Muckerskate
 
 #org @NAME_GROOVYLONGLEGS
-GroovLngLg
+GroovLongLeg
 
 #org @NAME_CRUSTEDRUMPUP
 Rumpup
@@ -393,7 +393,7 @@ M.Slurker
 PelletPosy
 
 #org @NAME_MASTERONION
-MastrOnion
+MasterOnion
 
 #org @NAME_OATCHI
 Oatchi
@@ -402,19 +402,19 @@ Oatchi
 Mireclops
 
 #org @NAME_ALBINODWARFBULBORB
-AlbinoBorb
+AlbnoBulborb
 
 #org @NAME_HAIRYBULBORB
-HairyBorb
+HairyBulborb
 
 #org @NAME_WHIPTONGUEBULBORB
 W.Bulborb
 
 #org @NAME_ORANGEBULBORB
-OrangeBorb
+OrngeBulborb
 
 #org @NAME_WHITEPIKMIN
-WitePikmin
+WhitePikmin
 
 #org @NAME_BLUEPIKMIN
 BluePikmin
@@ -423,25 +423,25 @@ BluePikmin
 RockPikmin
 
 #org @NAME_YELLOWPIKMIN
-YelwPikmin
+YellowPikmin
 
 #org @NAME_WINGEDPIKMIN
-WingPikmin
+WingedPikmin
 
 #org @NAME_REDPIKMIN
 RedPikmin
 
 #org @NAME_PURPLEPIKMIN
-PrplPikmin
+PurplePikmin
 
 #org @NAME_WATERWRAITH
-WatrWraith
+WaterWraith
 
 #org @NAME_TITANDWEEVIL
 T.Dweevil
 
 #org @NAME_PLASMWRAITH
-PlsmWraith
+PlasmWraith
 
 #org @NAME_ICEPIKMIN
 IcePikmin
@@ -462,7 +462,7 @@ Mamuta
 Moss
 
 #org @NAME_TOYBORB
-ToyBorb
+ToyBulborb
 
 #org @NAME_BULBLORD
 Bulblord
@@ -471,7 +471,7 @@ Bulblord
 Pinchipede
 
 #org @NAME_LARGEMOUTHWOLLYHOP
-LM.Wolyhop
+LMthWolyhop
 
 #org @NAME_TOYBLOWHOG
 ToyBlowhog
@@ -486,10 +486,10 @@ Beeb
 BladedBeeb
 
 #org @NAME_STUDDEDBEEB
-StudedBeeb
+StuddedBeeb
 
 #org @NAME_FIREFLAPBULBORB
-FirFlpBorb
+FireFlapBorb
 
 #org @NAME_ICEBLOWNDWEEVIL
 Dweevil
@@ -501,7 +501,7 @@ Spectralid
 Blubbug
 
 #org @NAME_PUFFYBLUBBUG
-PufyBlubug
+PuffyBlubbug
 
 #org @NAME_STUFFEDBELLBLOOM
 Bellbloom
@@ -510,10 +510,10 @@ Bellbloom
 Centipare
 
 #org @NAME_ADULTCENTIPARE
-AdtCntipar
+AdtCentipare
 
 #org @NAME_WATERYBLOWHOG
-WtrBlowhog
+WaterBlowhog
 
 #org @NAME_GRABBIT
 Grabbit
@@ -531,28 +531,28 @@ Cottonade
 Waddlepus
 
 #org @NAME_CRAMMEDWRAITH
-CrmdWraith
+CramedWraith
 
 #org @NAME_BERSERKLEECHHYDROE
 LeechHydro
 
 #org @NAME_PEBBLEPITCHER
-PblPitcher
+PebblPitcher
 
 #org @NAME_ANCIENTSIREHOUND
 Sirehound
 
 #org @NAME_COURAGEREACTOR
-CrgReactor
+CorageReactr
 
 #org @NAME_ASSEMBLEDCOURAGE
-AsmbldCrg
+AsmbldCorage
 
 #org @NAME_REMEMBEREDOLDBUDDY
-RmbrOldBdy
+RmbrdOldBudy
 
 #org @NAME_BULBORBWITHAGUN
-BorbWthGun
+BulborbWGun
 
 #org @NAME_KIRBY
 Kirby
@@ -561,7 +561,7 @@ Kirby
 Soul
 
 #org @NAME_PLACEHOLDERLARVA
-BetaBorb
+PlchldrLarva
 
 #org @NAME_DEMO77
 demo77
@@ -576,19 +576,19 @@ kakureimo
 pikutabe
 
 #org @NAME_NAMAPONGASHI
-pongashi
+namaPongashi
 
 #org @NAME_CHAPPYPROTO
-chapyProto
+chappyProto
 
 #org @NAME_BAD_EGG
 Bad Egg
 
 #org @NAME_GILDEMANDWEE_NOGOLD
-Gildmandwe
+Gildemandwee
 
 #org @NAME_GILDEMANDWER_NOGOLD
-Gildmander
+Gildemander
 
 #org @NAME_BEARDEDAMPRAT_STATIC
 Amprat
@@ -609,7 +609,7 @@ T.Dweevil
 T.Dweevil
 
 #org @NAME_SMOKYPROGG_MASTER
-MasterProg
+MasterProgg
 
 #org @NAME_SPECTRALID_RED
 Spectralid
@@ -723,16 +723,16 @@ Soul
 Soul
 
 #org @NAME_JUMBOBULBORB_MEGA
-JumboBorb
+JumboBulborb
 
 #org @NAME_TITANBLOWHOG_MEGA
-TtnBlowhog
+TitanBlowhog
 
 #org @NAME_MASTERHOP_MEGA
 Masterhop
 
 #org @NAME_GLINTBEETLE_MEGA
-GlntBeetle
+GlintBeetle
 
 #org @NAME_DIRIGIBUG_MEGA
 Dirigibug
@@ -741,22 +741,22 @@ Dirigibug
 GtBreadbug
 
 #org @NAME_SOVREIGNBULBLAX_MEGA
-SvreignBlx
+SvreignBlblx
 
 #org @NAME_DANDELFLY_MEGA
-Dandefly
+Dandelfly
 
 #org @NAME_PILEATEDSNAGRET_MEGA
 P.Snagret
 
 #org @NAME_DESICCATEDSKITTERLEAF_MEGA
-DSkterleaf
+D.Skiterleaf
 
 #org @NAME_ADULTBULBMIN_MEGAB
-AdtBulbmin
+AdultBulbmin
 
 #org @NAME_ADULTBULBMIN_MEGAS
-AdtBulbmin
+AdultBulbmin
 
 #org @NAME_MANATLEGS_MEGA
 ManAtLegs
@@ -768,10 +768,10 @@ V.Phosbat
 PyroSlooch
 
 #org @NAME_GREATERSPOTTEDJELLYFLOAT_MEGA
-GtrJelyflt
+GtrJelyfloat
 
 #org @NAME_SNOWFLAKEFLUTTERTAIL_MEGA
-FluttrTail
+FlutterTail
 
 #org @NAME_BOGSWALLOW_MEGA
 Bogswallow
@@ -786,13 +786,13 @@ Scorchcake
 Puffstool
 
 #org @NAME_EMPRESSBULBLAX_MEGA
-EmpressBlx
+EmpressBlblx
 
 #org @NAME_MUCKERSKATE_MEGA
-Muckerskat
+Muckerskate
 
 #org @NAME_GROOVYLONGLEGS_MEGA
-GroovLngLg
+GroovLongLeg
 
 #org @NAME_CRUSTEDRUMPUP_MEGA
 Rumpup
@@ -810,7 +810,7 @@ Oatchi
 Mireclops
 
 #org @NAME_WHITEPIKMIN_MEGA
-WitePikmin
+WhitePikmin
 
 #org @NAME_BLUEPIKMIN_MEGA
 BluePikmin
@@ -819,16 +819,16 @@ BluePikmin
 RockPikmin
 
 #org @NAME_YELLOWPIKMIN_MEGA
-YelwPikmin
+YellowPikmin
 
 #org @NAME_WINGEDPIKMIN_MEGA
-WingPikmin
+WingedPikmin
 
 #org @NAME_REDPIKMIN_MEGA
 RedPikmin
 
 #org @NAME_PURPLEPIKMIN_MEGA
-PrplPikmin
+PurplePikmin
 
 #org @NAME_ICEPIKMIN_MEGA
 IcePikmin
@@ -840,4 +840,4 @@ GlowPikmin
 Moss
 
 #org @NAME_WATERYBLOWHOG_MEGA
-WtrBlowhog
+WaterBlowhog
