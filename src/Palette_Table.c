@@ -287,4 +287,6 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_GLOWPIKMIN_MEGA] =         	{ gFrontSprite149GlowPikminMegaPal, 		SPECIES_GLOWPIKMIN_MEGA , 0x0},
 	[SPECIES_MOSS_MEGA] =         		{ gFrontSprite152MossMegaPal, 		SPECIES_MOSS_MEGA , 0x0},
 	[SPECIES_WATERYBLOWHOG_MEGA] =      	{ gFrontSprite170WateryBlowhogPal, 		SPECIES_WATERYBLOWHOG_MEGA , 0x0},
+	[SPECIES_OATCHI_MEGAB] =         	{ gFrontSprite131OatchiMegaBPal, 		SPECIES_OATCHI_MEGAB , 0x0},
+	[SPECIES_MOSS_MEGAB] =         		{ gFrontSprite152MossMegaBPal, 		SPECIES_MOSS_MEGAB , 0x0},
 };

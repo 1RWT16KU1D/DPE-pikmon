@@ -1406,4 +1406,14 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
+	[SPECIES_OATCHI_MEGAB] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MOSS_MEGAB] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
 };

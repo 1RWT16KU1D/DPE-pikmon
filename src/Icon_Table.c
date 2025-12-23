@@ -286,4 +286,6 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_GLOWPIKMIN_MEGA] = 		gIconSprite149GlowPikminMegaTiles,
 	[SPECIES_MOSS_MEGA] = 			gIconSprite152MossMegaTiles,
 	[SPECIES_WATERYBLOWHOG_MEGA] = 		gIconSprite170WateryBlowhogMegaTiles,
+	[SPECIES_OATCHI_MEGAB] = 		gIconSprite131OatchiMegaBTiles,
+	[SPECIES_MOSS_MEGAB] = 			gIconSprite152MossMegaBTiles,
 };
