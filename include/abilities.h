@@ -305,6 +305,14 @@
 #define ABILITY_FROSTBODY ABILITY_FLAMEBODY // May cause frostbite on contact
 #define ABILITY_FOOLSGOLD ABILITY_DISGUISE // Disguise clone, with custom bust text
 #define ABILITY_GLOOMYAURA ABILITY_SANDSTREAM // Summons Gloom Weather
+#define ABILITY_COMPOSER ABILITY_PUNKROCK //Renamed Punk Rock. Might want to keep punk rock for Groovy Long Legs
+#define ABILITY_RAGINGSTEPS ABILITY_ANGERPOINT //+1 SPEED when you take a hit
+
+#define ABILITY_INFLAMMATE ABILITY_AERILATE	//Fire, Water, Fighting, Poison, and Rock versions of Aerilate
+#define ABILITY_SATURATE ABILITY_AERILATE
+#define ABILITY_MARTIALIZE ABILITY_AERILATE
+#define ABILITY_VENOMIZE ABILITY_AERILATE
+#define ABILITY_MINERALATE ABILITY_AERILATE
 
 //CAUSED CONFLICT, BUT NEEDED
 #define ABILITY_TANGLINGHAIR ABILITY_GOOEY
