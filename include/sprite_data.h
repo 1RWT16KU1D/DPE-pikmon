@@ -1312,7 +1312,7 @@ extern const u8 gIconSprite149GlowPikminTiles[];
 extern const u8 gIconSprite150SmokyProggTiles[];
 extern const u8 gIconSprite151MamutaTiles[];
 extern const u8 gIconSprite152MossTiles[];
-extern const u8 gIconSprite153ToyborbTiles[];
+extern const u8 gIconSprite153ToyBorbTiles[];
 extern const u8 gIconSprite154BulblordTiles[];
 extern const u8 gIconSprite155PinchipedeTiles[];
 extern const u8 gIconSprite156LargeMouthWollyhopTiles[];
