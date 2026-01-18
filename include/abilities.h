@@ -307,6 +307,8 @@
 #define ABILITY_GLOOMYAURA ABILITY_SANDSTREAM // Summons Gloom Weather
 #define ABILITY_COMPOSER ABILITY_PUNKROCK //Renamed Punk Rock. Might want to keep punk rock for Groovy Long Legs
 #define ABILITY_RAGINGSTEPS ABILITY_ANGERPOINT //+1 SPEED when you take a hit
+#define ABILITY_SUPERSOAKER ABILITY_TORRENT //Boosts accuracy and power of water type moves
+
 
 #define ABILITY_INFLAMMATE ABILITY_AERILATE	//Fire, Water, Fighting, Poison, and Rock versions of Aerilate
 #define ABILITY_SATURATE ABILITY_AERILATE
