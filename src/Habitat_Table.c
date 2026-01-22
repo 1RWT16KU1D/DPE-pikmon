@@ -148,6 +148,11 @@ const u16 gForestPage8[] =
 	SPECIES_SHAGGYLONGLEGS,
 };
 
+const u16 gForestPage12[] =
+{
+	SPECIES_WHISKERPILLAR,
+};
+
 const u16 gForestPage9[] =
 {
 	SPECIES_DWARFBULBORB,
@@ -189,7 +194,13 @@ const u16 gWatersEdgePage3[] =
 	SPECIES_PUCKERINGBLINNOW,
 	SPECIES_SPUTTLEFISH,
 	SPECIES_PRICKLEPUFF,
+};
+
+const u16 gWatersEdgePage11[] =
+{
 	SPECIES_WADDLEPUS,
+	SPECIES_REDBUBBLIMP,
+	SPECIES_STARNACLE,
 };
 
 const u16 gWatersEdgePage4[] =
@@ -203,6 +214,7 @@ const u16 gWatersEdgePage5[] =
 {
 	SPECIES_WITHERINGBLOWHOG,
 	SPECIES_PUFFYBLOWHOG,
+	SPECIES_ICYBLOWHOG,
 };
 
 const u16 gWatersEdgePage6[] =
@@ -405,6 +417,7 @@ const u16 gCavePage10[] =
 
 const u16 gCavePage11[] =
 {
+	SPECIES_MYSTERIOUSLIFEFORM,
 	SPECIES_PLASMWRAITH,
 };
 
@@ -559,8 +572,21 @@ const u16 gUrbanPage4[] =
 	SPECIES_GILDEMANDER_NOGOLD,
 };
 
+const u16 gUrbanPage12[] =
+{
+	SPECIES_SHEARFLEA,
+};
+
 const u16 gUrbanPage5[] =
 {
+	SPECIES_ICEBLOWNDWEEVIL_F,
+	SPECIES_ICEBLOWNDWEEVIL_E,
+	SPECIES_ICEBLOWNDWEEVIL_W,
+};
+
+const u16 gUrbanPage11[] =
+{
+	SPECIES_ICEBLOWNDWEEVIL_P,
 	SPECIES_ICEBLOWNDWEEVIL,
 };
 
@@ -725,6 +751,7 @@ const struct HabitatPage gForestPages[] =
 	{gForestPage6, ARRAY_COUNT(gForestPage6)},
 	{gForestPage7, ARRAY_COUNT(gForestPage7)},
 	{gForestPage8, ARRAY_COUNT(gForestPage8)},
+	{gForestPage12, ARRAY_COUNT(gForestPage12)},
 	{gForestPage9, ARRAY_COUNT(gForestPage9)},
 	{gForestPage10, ARRAY_COUNT(gForestPage10)},
 	{gForestPage11, ARRAY_COUNT(gForestPage11)},
@@ -735,6 +762,7 @@ const struct HabitatPage gWatersEdgePages[] =
 	{gWatersEdgePage1, ARRAY_COUNT(gWatersEdgePage1)},
 	{gWatersEdgePage2, ARRAY_COUNT(gWatersEdgePage2)},
 	{gWatersEdgePage3, ARRAY_COUNT(gWatersEdgePage3)},
+	{gWatersEdgePage11, ARRAY_COUNT(gWatersEdgePage11)},
 	{gWatersEdgePage4, ARRAY_COUNT(gWatersEdgePage4)},
 	{gWatersEdgePage5, ARRAY_COUNT(gWatersEdgePage5)},
 	{gWatersEdgePage6, ARRAY_COUNT(gWatersEdgePage6)},
@@ -811,7 +839,9 @@ const struct HabitatPage gUrbanPages[] =
 	{gUrbanPage2, ARRAY_COUNT(gUrbanPage2)},
 	{gUrbanPage3, ARRAY_COUNT(gUrbanPage3)},
 	{gUrbanPage4, ARRAY_COUNT(gUrbanPage4)},
+	{gUrbanPage12, ARRAY_COUNT(gUrbanPage12)},
 	{gUrbanPage5, ARRAY_COUNT(gUrbanPage5)},
+	{gUrbanPage11, ARRAY_COUNT(gUrbanPage11)},
 	{gUrbanPage6, ARRAY_COUNT(gUrbanPage6)},
 	{gUrbanPage7, ARRAY_COUNT(gUrbanPage7)},
 	{gUrbanPage8, ARRAY_COUNT(gUrbanPage8)},

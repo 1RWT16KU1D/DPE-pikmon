@@ -1416,4 +1416,80 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
+
+	[SPECIES_ICEBLOWNDWEEVIL_F] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ICEBLOWNDWEEVIL_E] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ICEBLOWNDWEEVIL_W] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ICEBLOWNDWEEVIL_P] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_REDBUBBLIMP] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_STARNACLE] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SHEARFLEA] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_WHISKERPILLAR] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ICYBLOWHOG] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MYSTERIOUSLIFEFORM] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MYSTERIOUSLIFEFORM_BULBORB] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MYSTERIOUSLIFEFORM_AMPRAT] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MYSTERIOUSLIFEFORM_DANDELFLY] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MYSTERIOUSLIFEFORM_ARACHNODE] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MYSTERIOUSLIFEFORM_BLOWHOG] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
 };
