@@ -43,8 +43,8 @@ else:  # Linux, OSX, etc.
     CC = PREFIX + 'gcc'
     LD = PREFIX + 'ld'
     GR = "grit"
-    WAV2AGB = 'deps/wav2agb.exe'
-    MID2AGB = 'deps/mid2agb.exe'
+    WAV2AGB = 'wav2agb'
+    MID2AGB = 'mid2agb'
     OBJCOPY = PREFIX + 'objcopy'
 
 SRC = './src'
