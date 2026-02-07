@@ -307,9 +307,17 @@ const u16 gSeaPage8[] =
 	SPECIES_ELECTRICCOTTONADE,
 };
 
-const u16 gSeaPage9[] =
+const u16 gSeaPage13[] =
 {
-	SPECIES_WATERWRAITH,
+	SPECIES_ICEBLOWNDWEEVIL_F,
+	SPECIES_ICEBLOWNDWEEVIL_E,
+	SPECIES_ICEBLOWNDWEEVIL_W,
+};
+
+const u16 gSeaPage14[] =
+{
+	SPECIES_ICEBLOWNDWEEVIL_P,
+	SPECIES_ICEBLOWNDWEEVIL,
 };
 
 const u16 gSeaPage10[] =
@@ -323,6 +331,11 @@ const u16 gSeaPage12[] =
 	SPECIES_TITANDWEEVIL_FIRE,
 	SPECIES_TITANDWEEVIL_POISON,
 	SPECIES_TITANDWEEVIL_WATER,
+};
+
+const u16 gSeaPage9[] =
+{
+	SPECIES_WATERWRAITH,
 };
 
 const u16 gSeaPage11[] =
@@ -577,19 +590,6 @@ const u16 gUrbanPage12[] =
 	SPECIES_SHEARFLEA,
 };
 
-const u16 gUrbanPage5[] =
-{
-	SPECIES_ICEBLOWNDWEEVIL_F,
-	SPECIES_ICEBLOWNDWEEVIL_E,
-	SPECIES_ICEBLOWNDWEEVIL_W,
-};
-
-const u16 gUrbanPage11[] =
-{
-	SPECIES_ICEBLOWNDWEEVIL_P,
-	SPECIES_ICEBLOWNDWEEVIL,
-};
-
 const u16 gUrbanPage6[] =
 {
 	SPECIES_TOYBORB,
@@ -782,9 +782,11 @@ const struct HabitatPage gSeaPages[] =
 	{gSeaPage6, ARRAY_COUNT(gSeaPage6)},
 	{gSeaPage7, ARRAY_COUNT(gSeaPage7)},
 	{gSeaPage8, ARRAY_COUNT(gSeaPage8)},
-	{gSeaPage9, ARRAY_COUNT(gSeaPage9)},
+	{gSeaPage13, ARRAY_COUNT(gSeaPage13)},
+	{gSeaPage14, ARRAY_COUNT(gSeaPage14)},
 	{gSeaPage10, ARRAY_COUNT(gSeaPage10)},
 	{gSeaPage12, ARRAY_COUNT(gSeaPage12)},
+	{gSeaPage9, ARRAY_COUNT(gSeaPage9)},
 	{gSeaPage11, ARRAY_COUNT(gSeaPage11)},
 };
 
@@ -840,8 +842,6 @@ const struct HabitatPage gUrbanPages[] =
 	{gUrbanPage3, ARRAY_COUNT(gUrbanPage3)},
 	{gUrbanPage4, ARRAY_COUNT(gUrbanPage4)},
 	{gUrbanPage12, ARRAY_COUNT(gUrbanPage12)},
-	{gUrbanPage5, ARRAY_COUNT(gUrbanPage5)},
-	{gUrbanPage11, ARRAY_COUNT(gUrbanPage11)},
 	{gUrbanPage6, ARRAY_COUNT(gUrbanPage6)},
 	{gUrbanPage7, ARRAY_COUNT(gUrbanPage7)},
 	{gUrbanPage8, ARRAY_COUNT(gUrbanPage8)},

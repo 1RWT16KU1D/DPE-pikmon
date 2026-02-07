@@ -318,3 +318,7 @@ enum
 
 #define FINAL_DEX_ENTRY NATIONAL_DEX_WATERYBLOWHOG_MEGA //Not +1 b/c used like this for some asm
 #define NATIONAL_DEX_COUNT FINAL_DEX_ENTRY + 1
+
+extern const u8 POM_BULBORBLARVA[];
+extern const u8 OLIMAR_BULBORBLARVA[];
+extern const u8 LOUIE_BULBORBLARVA[];
