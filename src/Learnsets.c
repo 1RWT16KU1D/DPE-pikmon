@@ -3125,7 +3125,7 @@ static const struct LevelUpMove sMossLevelUpLearnset[] = {
 	LEVEL_UP_END
 };
 
-static const struct LevelUpMove sToyborbLevelUpLearnset[] = {
+static const struct LevelUpMove sToyBorbLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 1, MOVE_TACKLE),
 	LEVEL_UP_MOVE( 1, MOVE_GROWL),
 	LEVEL_UP_MOVE( 1, MOVE_RAZORLEAF),
@@ -4246,7 +4246,7 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_SMOKYPROG] = sSmokyProggLevelUpLearnset,
 	[SPECIES_MAMUTA] = sMamutaLevelUpLearnset,
 	[SPECIES_MOSS] = sMossLevelUpLearnset,
-	[SPECIES_TOYBORB] = sToyborbLevelUpLearnset,
+	[SPECIES_TOYBORB] = sToyBorbLevelUpLearnset,
 	[SPECIES_BULBLORD] = sBulblordLevelUpLearnset,
 	[SPECIES_PINCHIPEDE] = sPinchipedeLevelUpLearnset,
 	[SPECIES_LARGEMOUTHWOLLYHOP] = sLargeMouthWollyhopLevelUpLearnset,
