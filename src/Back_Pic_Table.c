@@ -286,7 +286,7 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_ICEPIKMIN_MEGA] =         	{gBackShinySprite147IcePikminMegaTiles,        (64 * 64) / 2, 	SPECIES_ICEPIKMIN_MEGA},
 	[SPECIES_GLOWPIKMIN_MEGA] =         	{gBackShinySprite149GlowPikminMegaTiles,        (64 * 64) / 2, 	SPECIES_GLOWPIKMIN_MEGA},
 	[SPECIES_MOSS_MEGA] =         		{gBackShinySprite152MossMegaTiles,        (64 * 64) / 2, 		SPECIES_MOSS_MEGA},
-	[SPECIES_WATERYBLOWHOG_MEGA] =      	{gBackShinySprite170WateryBlowhogTiles,        (64 * 64) / 2, 	SPECIES_WATERYBLOWHOG_MEGA},
+	[SPECIES_WATERYBLOWHOG_MEGA] =      	{gBackShinySprite170WateryBlowhogMegaTiles,        (64 * 64) / 2, 	SPECIES_WATERYBLOWHOG_MEGA},
 	[SPECIES_OATCHI_MEGAB] =         	{gBackShinySprite131OatchiMegaBTiles,        (64 * 64) / 2, 	SPECIES_OATCHI_MEGAB},
 	[SPECIES_MOSS_MEGAB] =         		{gBackShinySprite152MossMegaBTiles,        (64 * 64) / 2, 		SPECIES_MOSS_MEGAB},
 

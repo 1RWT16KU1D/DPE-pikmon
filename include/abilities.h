@@ -305,10 +305,11 @@
 #define ABILITY_FROSTBODY ABILITY_FLAMEBODY // May cause frostbite on contact
 #define ABILITY_FOOLSGOLD ABILITY_DISGUISE // Disguise clone, with custom bust text. Mysterious Lifeform will have a second set of custom bust text
 #define ABILITY_GLOOMYAURA ABILITY_SANDSTREAM // Summons Gloom Weather
-#define ABILITY_COMPOSER ABILITY_PUNKROCK //Renamed Punk Rock. Might want to keep punk rock for Groovy Long Legs
+#define ABILITY_COMPOSER ABILITY_PRANKSTER //Sound has raised priority. Apparently not the same as Punk ROck. Oops.
 #define ABILITY_RAGINGSTEPS ABILITY_ANGERPOINT //+1 SPEED when you take a hit
 #define ABILITY_SUPERSOAKER ABILITY_TORRENT //Boosts accuracy and power of water type moves
 #define ABILITY_STATICUP ABILITY_HUNGERSWITCH //swaps between BEARDEDAMPRAT and BEAREDEDAMPRAT_STATIC. While in STATIC mode, boosts electric type moves.
+#define ABILITY_BOILINGPOINT ABILITY_POISONTOUCH //Wind moves are now fire type. 10% chance for water type moves to burn.
 
 
 #define ABILITY_INFLAMMATE ABILITY_AERILATE	//Fire, Water, Fighting, Poison, and Rock versions of Aerilate
@@ -317,7 +318,6 @@
 #define ABILITY_VENOMIZE ABILITY_AERILATE
 #define ABILITY_MINERALATE ABILITY_AERILATE
 
-//CAUSED CONFLICT, BUT NEEDED
 #define ABILITY_TANGLINGHAIR ABILITY_GOOEY
 #define ABILITY_WIMPOUT ABILITY_EMERGENCYEXIT
 #define ABILITY_IRONBARBS ABILITY_ROUGHSKIN
@@ -326,5 +326,5 @@
 #define ABILITY_FULLMETALBODY ABILITY_CLEARBODY
 #define ABILITY_POWEROFALCHEMY ABILITY_RECEIVER
 
-#define ABILITY_SPARKLY ABILITY_LIGHTNINGROD // Always has Rage Powder
+#define ABILITY_SPARKLY ABILITY_IMMUNITY // Always has Rage Powder
 #define ABILITY_BIGSTEPS ABILITY_IRONFIST // Increases damage of stomping moves

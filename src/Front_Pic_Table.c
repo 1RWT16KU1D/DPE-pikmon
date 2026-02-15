@@ -286,7 +286,7 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_ICEPIKMIN_MEGA] =         	{ gFrontSprite147IcePikminMegaTiles,        (64 * 64) / 2, 	SPECIES_ICEPIKMIN_MEGA},
 	[SPECIES_GLOWPIKMIN_MEGA] =         	{ gFrontSprite149GlowPikminMegaTiles,        (64 * 64) / 2, 	SPECIES_GLOWPIKMIN_MEGA},
 	[SPECIES_MOSS_MEGA] =         		{ gFrontSprite152MossMegaTiles,        (64 * 64) / 2, 		SPECIES_MOSS_MEGA},
-	[SPECIES_WATERYBLOWHOG_MEGA] =      	{ gFrontSprite170WateryBlowhogTiles,        (64 * 64) / 2, 	SPECIES_WATERYBLOWHOG_MEGA},
+	[SPECIES_WATERYBLOWHOG_MEGA] =      	{ gFrontSprite170WateryBlowhogMegaTiles,        (64 * 64) / 2, 	SPECIES_WATERYBLOWHOG_MEGA},
 	[SPECIES_OATCHI_MEGAB] =         	{ gFrontSprite131OatchiMegaBTiles,        (64 * 64) / 2, 	SPECIES_OATCHI_MEGAB},
 	[SPECIES_MOSS_MEGAB] =         		{ gFrontSprite152MossMegaBTiles,        (64 * 64) / 2, 		SPECIES_MOSS_MEGAB},
 

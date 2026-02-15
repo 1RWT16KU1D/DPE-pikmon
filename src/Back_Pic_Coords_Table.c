@@ -1479,8 +1479,8 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	},
 	[SPECIES_MYSTERIOUSLIFEFORM_DANDELFLY] =
 	{
-		.size = 0x88,
-		.y_offset = 0x0,
+		.size = 0x65,
+		.y_offset = 0xD,
 	},
 	[SPECIES_MYSTERIOUSLIFEFORM_ARACHNODE] =
 	{
