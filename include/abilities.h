@@ -310,7 +310,7 @@
 #define ABILITY_SUPERSOAKER ABILITY_TORRENT //Boosts accuracy and power of water type moves
 #define ABILITY_STATICUP ABILITY_HUNGERSWITCH //swaps between BEARDEDAMPRAT and BEAREDEDAMPRAT_STATIC. While in STATIC mode, boosts electric type moves.
 #define ABILITY_BOILINGPOINT ABILITY_POISONTOUCH //Wind moves are now fire type. 10% chance for water type moves to burn.
-
+#define ABILITY_TATTEREDWEB ABILITY_POISONPOINT
 
 #define ABILITY_INFLAMMATE ABILITY_AERILATE	//Fire, Water, Fighting, Poison, and Rock versions of Aerilate
 #define ABILITY_SATURATE ABILITY_AERILATE
