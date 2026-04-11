@@ -366,7 +366,6 @@ u16 LoadPokedexViews(u8 type)
 		case 0:
 			dexList = gPokedexOrder_Regional;
 			count = gRegionalDexCount;
-			showUnseenSpecies = TRUE;
 			showUncaughtSpecies = TRUE;
 			break;
 		case 1:
