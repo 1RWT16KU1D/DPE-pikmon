@@ -282,16 +282,15 @@ const u16 gSeaPage5[] =
 {
 	SPECIES_TOADYBLOYSTER,
 	SPECIES_RANGINGBLOYSTER,
-	SPECIES_WATERDUMPLE,
-	SPECIES_LONGWATERDUMPLE,
+	SPECIES_BLOOMCAPBLOYSTER,
 };
 
 const u16 gSeaPage6[] =
 {
 	SPECIES_WOLLYHOP,
 	SPECIES_CHILLYHOP,
-	SPECIES_WATERYBLOWHOG,
-	SPECIES_WATERYBLOWHOG_MEGA,
+	SPECIES_WATERDUMPLE,
+	SPECIES_LONGWATERDUMPLE,
 };
 
 const u16 gSeaPage7[] =
@@ -305,6 +304,8 @@ const u16 gSeaPage8[] =
 {
 	SPECIES_ANODEBEETLE,
 	SPECIES_ELECTRICCOTTONADE,
+	SPECIES_WATERYBLOWHOG,
+	SPECIES_WATERYBLOWHOG_MEGA,
 };
 
 const u16 gSeaPage13[] =
@@ -368,7 +369,6 @@ const u16 gCavePage3[] =
 const u16 gCavePage4[] =
 {
 	SPECIES_TUSKEDBLOWHOG,
-	SPECIES_BLOOMCAPBLOYSTER,
 };
 
 const u16 gCavePage5[] =
@@ -400,12 +400,6 @@ const u16 gCavePage7[] =
 	SPECIES_SCORCHCAKE_MEGA,
 };
 
-const u16 gCavePage12[] =
-{
-	SPECIES_FIERYBULBLAX,
-	SPECIES_FIREFLAPBULBORB,
-};
-
 const u16 gCavePage8[] =
 {
 	SPECIES_CRAMMEDWRAITH,
@@ -417,7 +411,12 @@ const u16 gCavePage9[] =
 	SPECIES_ALBINODWARFBULBORB,
 	SPECIES_HAIRYBULBORB,
 	SPECIES_WHIPTONGUEBULBORB,
+};
+
+const u16 gCavePage12[] =
+{
 	SPECIES_ORANGEBULBORB,
+	SPECIES_FIERYBULBLAX,
 };
 
 const u16 gCavePage10[] =
@@ -541,6 +540,11 @@ const u16 gRoughTerrainPage6[] =
 const u16 gRoughTerrainPage7[] =
 {
 	SPECIES_GRUBCHUCKER,
+};
+
+const u16 gRoughTerrainPage11] =
+{
+	SPECIES_FIREFLAPBULBORB,
 };
 
 const u16 gRoughTerrainPage8[] =
@@ -800,9 +804,9 @@ const struct HabitatPage gCavePages[] =
 	{gCavePage6, ARRAY_COUNT(gCavePage6)},
 	{gCavePage13, ARRAY_COUNT(gCavePage13)},
 	{gCavePage7, ARRAY_COUNT(gCavePage7)},
-	{gCavePage12, ARRAY_COUNT(gCavePage12)},
 	{gCavePage8, ARRAY_COUNT(gCavePage8)},
 	{gCavePage9, ARRAY_COUNT(gCavePage9)},
+	{gCavePage12, ARRAY_COUNT(gCavePage12)},
 	{gCavePage10, ARRAY_COUNT(gCavePage10)},
 	{gCavePage11, ARRAY_COUNT(gCavePage11)},
 };
@@ -831,6 +835,7 @@ const struct HabitatPage gRoughTerrainPages[] =
 	{gRoughTerrainPage5, ARRAY_COUNT(gRoughTerrainPage5)},
 	{gRoughTerrainPage6, ARRAY_COUNT(gRoughTerrainPage6)},
 	{gRoughTerrainPage7, ARRAY_COUNT(gRoughTerrainPage7)},
+	{gRoughTerrainPage11, ARRAY_COUNT(gRoughTerrainPage11,
 	{gRoughTerrainPage8, ARRAY_COUNT(gRoughTerrainPage8)},
 	{gRoughTerrainPage9, ARRAY_COUNT(gRoughTerrainPage9)},
 };
