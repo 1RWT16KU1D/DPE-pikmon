@@ -542,7 +542,7 @@ const u16 gRoughTerrainPage7[] =
 	SPECIES_GRUBCHUCKER,
 };
 
-const u16 gRoughTerrainPage11] =
+const u16 gRoughTerrainPage11[] =
 {
 	SPECIES_FIREFLAPBULBORB,
 };
@@ -835,7 +835,7 @@ const struct HabitatPage gRoughTerrainPages[] =
 	{gRoughTerrainPage5, ARRAY_COUNT(gRoughTerrainPage5)},
 	{gRoughTerrainPage6, ARRAY_COUNT(gRoughTerrainPage6)},
 	{gRoughTerrainPage7, ARRAY_COUNT(gRoughTerrainPage7)},
-	{gRoughTerrainPage11, ARRAY_COUNT(gRoughTerrainPage11,
+	{gRoughTerrainPage11, ARRAY_COUNT(gRoughTerrainPage11)},
 	{gRoughTerrainPage8, ARRAY_COUNT(gRoughTerrainPage8)},
 	{gRoughTerrainPage9, ARRAY_COUNT(gRoughTerrainPage9)},
 };
