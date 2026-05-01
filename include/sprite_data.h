@@ -298,6 +298,27 @@ extern const u8 gFrontSprite195WhiskerpillarTiles[];
 extern const u8 gFrontSprite196IcyBlowhogTiles[];
 extern const u8 gFrontSprite197MysteriousLifeformTiles[];
 
+extern const u8 gFrontSprite144WaterWraithBlackTiles[];
+extern const u8 gFrontSprite195WhiskerpillarMegaBTiles[];
+extern const u8 gFrontSprite195WhiskerpillarMegaSTiles[];
+extern const u8 gFrontSprite198PeteyPirannhaTiles[];
+extern const u8 gFrontSprite199ToyPikminRedTiles[];
+extern const u8 gFrontSprite199ToyPikminYellowTiles[];
+extern const u8 gFrontSprite199ToyPikminBlueTiles[];
+extern const u8 gFrontSprite200PikiMaleTiles[];
+extern const u8 gFrontSprite200PikiFemaleTiles[];
+extern const u8 gFrontSprite201DemoFTiles[];
+extern const u8 gFrontSprite202DemoGTiles[];
+extern const u8 gFrontSprite203DemoITiles[];
+extern const u8 gFrontSprite204DemoWTiles[];
+extern const u8 gFrontSprite205UsualSuspectTiles[];
+extern const u8 gFrontSprite206MeteorTiles[];
+extern const u8 gFrontSprite207CherryTiles[];
+extern const u8 gFrontSprite208AntennaBeetleTiles[];
+extern const u8 gFrontSprite209FieryYoungYellowWollyhopTiles[];
+extern const u8 gFrontSprite210HotelTransylvaniaTiles[];
+extern const u8 gFrontSprite026HoneywispMegaTiles[];
+
 
 
 /* ====================== BACK SHINY SPRITES ====================== */
@@ -597,6 +618,27 @@ extern const u8 gBackShinySprite194ShearfleaTiles[];
 extern const u8 gBackShinySprite195WhiskerpillarTiles[];
 extern const u8 gBackShinySprite196IcyBlowhogTiles[];
 extern const u8 gBackShinySprite197MysteriousLifeformTiles[];
+
+extern const u8 gBackShinySprite144WaterWraithBlackTiles[];
+extern const u8 gBackShinySprite195WhiskerpillarMegaBTiles[];
+extern const u8 gBackShinySprite195WhiskerpillarMegaSTiles[];
+extern const u8 gBackShinySprite198PeteyPirannhaTiles[];
+extern const u8 gBackShinySprite199ToyPikminRedTiles[];
+extern const u8 gBackShinySprite199ToyPikminYellowTiles[];
+extern const u8 gBackShinySprite199ToyPikminBlueTiles[];
+extern const u8 gBackShinySprite200PikiMaleTiles[];
+extern const u8 gBackShinySprite200PikiFemaleTiles[];
+extern const u8 gBackShinySprite201DemoFTiles[];
+extern const u8 gBackShinySprite202DemoGTiles[];
+extern const u8 gBackShinySprite203DemoITiles[];
+extern const u8 gBackShinySprite204DemoWTiles[];
+extern const u8 gBackShinySprite205UsualSuspectTiles[];
+extern const u8 gBackShinySprite206MeteorTiles[];
+extern const u8 gBackShinySprite207CherryTiles[];
+extern const u8 gBackShinySprite208AntennaBeetleTiles[];
+extern const u8 gBackShinySprite209FieryYoungYellowWollyhopTiles[];
+extern const u8 gBackShinySprite210HotelTransylvaniaTiles[];
+extern const u8 gBackShinySprite026HoneywispMegaTiles[];
 
 
 
@@ -899,6 +941,27 @@ extern const u8 gFrontSprite194ShearfleaPal[];
 extern const u8 gFrontSprite195WhiskerpillarPal[];
 extern const u8 gFrontSprite196IcyBlowhogPal[];
 extern const u8 gFrontSprite197MysteriousLifeformPal[];
+
+extern const u8 gFrontSprite144WaterWraithBlackPal[];
+extern const u8 gFrontSprite195WhiskerpillarMegaBPal[];
+extern const u8 gFrontSprite195WhiskerpillarMegaSPal[];
+extern const u8 gFrontSprite198PeteyPirannhaPal[];
+extern const u8 gFrontSprite199ToyPikminRedPal[];
+extern const u8 gFrontSprite199ToyPikminYellowPal[];
+extern const u8 gFrontSprite199ToyPikminBluePal[];
+extern const u8 gFrontSprite200PikiMalePal[];
+extern const u8 gFrontSprite200PikiFemalePal[];
+extern const u8 gFrontSprite201DemoFPal[];
+extern const u8 gFrontSprite202DemoGPal[];
+extern const u8 gFrontSprite203DemoIPal[];
+extern const u8 gFrontSprite204DemoWPal[];
+extern const u8 gFrontSprite205UsualSuspectPal[];
+extern const u8 gFrontSprite206MeteorPal[];
+extern const u8 gFrontSprite207CherryPal[];
+extern const u8 gFrontSprite208AntennaBeetlePal[];
+extern const u8 gFrontSprite209FieryYoungYellowWollyhopPal[];
+extern const u8 gFrontSprite210HotelTransylvaniaPal[];
+extern const u8 gFrontSprite026HoneywispMegaPal[];
 
 
 
@@ -1205,6 +1268,27 @@ extern const u8 gBackShinySprite197MysteriousLifeformDandelflyPal[];
 extern const u8 gBackShinySprite197MysteriousLifeformArachnodePal[];
 extern const u8 gBackShinySprite197MysteriousLifeformBlowhogPal[];
 
+extern const u8 gBackShinySprite144WaterWraithBlackPal[];
+extern const u8 gBackShinySprite195WhiskerpillarMegaBPal[];
+extern const u8 gBackShinySprite195WhiskerpillarMegaSPal[];
+extern const u8 gBackShinySprite198PeteyPirannhaPal[];
+extern const u8 gBackShinySprite199ToyPikminRedPal[];
+extern const u8 gBackShinySprite199ToyPikminYellowPal[];
+extern const u8 gBackShinySprite199ToyPikminBluePal[];
+extern const u8 gBackShinySprite200PikiMalePal[];
+extern const u8 gBackShinySprite200PikiFemalePal[];
+extern const u8 gBackShinySprite201DemoFPal[];
+extern const u8 gBackShinySprite202DemoGPal[];
+extern const u8 gBackShinySprite203DemoIPal[];
+extern const u8 gBackShinySprite204DemoWPal[];
+extern const u8 gBackShinySprite205UsualSuspectPal[];
+extern const u8 gBackShinySprite206MeteorPal[];
+extern const u8 gBackShinySprite207CherryPal[];
+extern const u8 gBackShinySprite208AntennaBeetlePal[];
+extern const u8 gBackShinySprite209FieryYoungYellowWollyhopPal[];
+extern const u8 gBackShinySprite210HotelTransylvaniaPal[];
+extern const u8 gBackShinySprite026HoneywispMegaPal[];
+
 
 
 /* ====================== ICON SPRITES ====================== */
@@ -1504,3 +1588,24 @@ extern const u8 gIconSprite194ShearfleaTiles[];
 extern const u8 gIconSprite195WhiskerpillarTiles[];
 extern const u8 gIconSprite196IcyBlowhogTiles[];
 extern const u8 gIconSprite197MysteriousLifeformTiles[];
+
+extern const u8 gIconSprite144WaterWraithBlackTiles[];
+extern const u8 gIconSprite195WhiskerpillarMegaBTiles[];
+extern const u8 gIconSprite195WhiskerpillarMegaSTiles[];
+extern const u8 gIconSprite198PeteyPirannhaTiles[];
+extern const u8 gIconSprite199ToyPikminRedTiles[];
+extern const u8 gIconSprite199ToyPikminYellowTiles[];
+extern const u8 gIconSprite199ToyPikminBlueTiles[];
+extern const u8 gIconSprite200PikiMaleTiles[];
+extern const u8 gIconSprite200PikiFemaleTiles[];
+extern const u8 gIconSprite201DemoFTiles[];
+extern const u8 gIconSprite202DemoGTiles[];
+extern const u8 gIconSprite203DemoITiles[];
+extern const u8 gIconSprite204DemoWTiles[];
+extern const u8 gIconSprite205UsualSuspectTiles[];
+extern const u8 gIconSprite206MeteorTiles[];
+extern const u8 gIconSprite207CherryTiles[];
+extern const u8 gIconSprite208AntennaBeetleTiles[];
+extern const u8 gIconSprite209FieryYoungYellowWollyhopTiles[];
+extern const u8 gIconSprite210HotelTransylvaniaTiles[];
+extern const u8 gIconSprite026HoneywispMegaTiles[];

@@ -337,3 +337,6 @@
 #define ABILITY_BITTERESSENCE ABILITY_POISONPOINT //may petrify when opponent contacts
 #define ABILITY_ASONE_PROGG ABILITY_NEUROFORCE //Neuroforce + Gloomy Aura
 #define ABILITY_SNOWANGEL ABILITY_WATERBUBBLE //Imune to fire and burns while in snow
+#define ABILITY_QUIXOTICSURGE ABILITY_ELECTRICSURGE //Sets rainbows on both sides of the field
+
+#define ABILITY_EMPREORSWHISTLE ABILITY_PUNKROCK

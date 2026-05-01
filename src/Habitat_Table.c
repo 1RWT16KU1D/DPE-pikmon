@@ -31,9 +31,9 @@ const u16 gGrasslandPage2[] =
 const u16 gGrasslandPage3[] =
 {
 	SPECIES_HONEYWISP,
+	SPECIES_HONEYWISP_MEGA,
 	SPECIES_DANDELFLY,
 	SPECIES_DANDELFLY_MEGA,
-	SPECIES_SUNQUISH,
 };
 
 const u16 gGrasslandPage4[] =
@@ -55,6 +55,7 @@ const u16 gGrasslandPage6[] =
 {
 	SPECIES_WADDLEQUAFF,
 	SPECIES_PROQUILLION,
+	SPECIES_SUNQUISH,
 };
 
 const u16 gGrasslandPage7[] =
@@ -151,6 +152,8 @@ const u16 gForestPage8[] =
 const u16 gForestPage12[] =
 {
 	SPECIES_WHISKERPILLAR,
+	SPECIES_WHISKERPILLAR_MEGAB,
+	SPECIES_WHISKERPILLAR_MEGAS,
 };
 
 const u16 gForestPage9[] =
@@ -337,6 +340,7 @@ const u16 gSeaPage12[] =
 const u16 gSeaPage9[] =
 {
 	SPECIES_WATERWRAITH,
+	SPECIES_WATERWRAITH_NOTIRES,
 };
 
 const u16 gSeaPage11[] =
@@ -730,6 +734,42 @@ const u16 gRarePage15[] =
 	SPECIES_CHAPPYPROTO,
 };
 
+const u16 gRarePage16[] =
+{
+	SPECIES_TOYPIKMIN_RED,
+	SPECIES_TOYPIKMIN_YELLOW,
+	SPECIES_TOYPIKMIN_BLUE,
+};
+
+const u16 gRarePage17[] =
+{
+	SPECIES_PIKI_MALE,
+	SPECIES_PIKI_FEMALE,
+	SPECIES_USUALSUSPECT,
+};
+
+const u16 gRarePage18[] =
+{
+	SPECIES_DEMOF,
+	SPECIES_DEMOG,
+	SPECIES_DEMOI,
+	SPECIES_DEMOW,
+};
+
+const u16 gRarePage19[] =
+{
+	SPECIES_PETEYPIRANNHA,
+	SPECIES_HOTELTRANSYLVANIA,
+	SPECIES_METEOR,
+	SPECIES_CHERRY,
+};
+
+const u16 gRarePage20[] =
+{
+	SPECIES_ANTENNABEETLE,
+	SPECIES_FIERYYOUNGYELLOWWOLLYHOP,
+};
+
 const struct HabitatPage gGrasslandPages[] =
 {
 	{gGrasslandPage1, ARRAY_COUNT(gGrasslandPage1)},
@@ -871,6 +911,11 @@ const struct HabitatPage gRarePages[] =
 	{gRarePage13, ARRAY_COUNT(gRarePage13)},
 	{gRarePage14, ARRAY_COUNT(gRarePage14)},
 	{gRarePage15, ARRAY_COUNT(gRarePage15)},
+	{gRarePage16, ARRAY_COUNT(gRarePage16)},
+	{gRarePage17, ARRAY_COUNT(gRarePage17)},
+	{gRarePage18, ARRAY_COUNT(gRarePage18)},
+	{gRarePage19, ARRAY_COUNT(gRarePage19)},
+	{gRarePage20, ARRAY_COUNT(gRarePage20)},
 };
 
 const struct Habitat gHabitatPtrsTable[9] =

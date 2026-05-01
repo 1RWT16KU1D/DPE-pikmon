@@ -1,9 +1,66 @@
+//██████   ██████  ███    ███ 
+//██   ██ ██    ██ ████  ████ 
+//██████  ██    ██ ██ ████ ██ 
+//██      ██    ██ ██  ██  ██ 
+//██       ██████  ██      ██ 
+
 #org @POM_BULBORBLARVA
-[POM]Crawls underground until their first \nmolt. Their bodies are so frail that even \nprodding them slightly can hurt them. 
+ [POM] These little guys love to hang out\n together. They’re kinda like peas in a...\n Borb? Peas in a borb? Bulborbs in a pod?
+
+#org @POM_BULBORB
+ [POM] They’re always trying to drink "notes of\n Pikmin", whatever that may mean. Where\n did they even get this straw from?!
+
+#org @POM_JUMBOBULBORB
+ [POM] This guy is HUGE. There’s very few of\n them around. I heard they like to team up\n with other Bulborbs when hunting... Scary!
+
+#org @POM_JUMBOBULBORB_MEGA
+ [POM] Um, I’m pretty sure it’s out for blood\n now. I really wouldn’t want to be a Pikmin\n when it’s in this state.
+
+#org @POM_FIERYBLOWLET
+ [POM] They’re so tiny, they can barely spit\n fire! I really wish I could bring one to my\n home planet, but it would grow out of control.
+
+#org @POM_FIERYBLOWHOG
+ [POM] It’s always spitting fire at my Pikmin. I wish\n I could spit fire... Not at my Pikmin though...\n OK, maybe once. For fun?
+
+#org @POM_TITANBLOWHOG
+ [POM] This thing is a gigantic flamethrower.\n Naturalists hate it, because its fire is very\n potent, so potent that it causes wildfires!
+
+#org @POM_TITANBLOWHOG_MEGA
+ [POM] I feel like I’m gonna melt just by staring\n at it. It’d probably make for really great\n heating during the winter.
+
+#org @POM_WOLPOLE
+ [POM] It looks back at its mother one last time\n and swims away to avoid being crushed\n accidentally. I envy it, somehow...
+
+#org @POM_YELLOWWOLLYHOP
+ [POM] I’ve seen a Bulborb try to lick the\n underside of one of these things. Haven't\n been the same ever since.
+
+#org @POM_MASTERHOP
+ [POM] These things are humongous. How do\n they even eat, anyways? What are they\n eating that's making them so huge?
+
+#org @POM_MASTERHOP_MEGA
+ [POM] Um, nevermind. I take back what I said\n about you, Mr. Masterhop. Please don’t\n crush me.
+
+#org @POM_
+ [POM] 
+
+
+// ██████  ██      ██ ███    ███  █████  ██████  
+//██    ██ ██      ██ ████  ████ ██   ██ ██   ██ 
+//██    ██ ██      ██ ██ ████ ██ ███████ ██████  
+//██    ██ ██      ██ ██  ██  ██ ██   ██ ██   ██ 
+// ██████  ███████ ██ ██      ██ ██   ██ ██   ██ 
 
 #org @OLIMAR_BULBORBLARVA
-[OLIMAR]Crawls underground until their first \nmolt. Their bodies are so frail that even \nprodding them slightly can hurt them. 
+[OLIMAR]
+
+
+
+//██       ██████  ██    ██ ██ ███████ 
+//██      ██    ██ ██    ██ ██ ██      
+//██      ██    ██ ██    ██ ██ █████   
+//██      ██    ██ ██    ██ ██ ██      
+//███████  ██████   ██████  ██ ███████ 
 
 #org @LOUIE_BULBORBLARVA
-[LOUIE]Crawls underground until their first \nmolt. Their bodies are so frail that even \nprodding them slightly can hurt them. 
+[LOUIE]
 
