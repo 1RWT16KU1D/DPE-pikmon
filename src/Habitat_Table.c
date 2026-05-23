@@ -766,8 +766,9 @@ const u16 gRarePage19[] =
 
 const u16 gRarePage20[] =
 {
-	SPECIES_ANTENNABEETLE,
 	SPECIES_FIERYYOUNGYELLOWWOLLYHOP,
+	SPECIES_ANTENNABEETLE,
+	SPECIES_CALYREX,
 };
 
 const struct HabitatPage gGrasslandPages[] =

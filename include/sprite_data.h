@@ -318,6 +318,7 @@ extern const u8 gFrontSprite208AntennaBeetleTiles[];
 extern const u8 gFrontSprite209FieryYoungYellowWollyhopTiles[];
 extern const u8 gFrontSprite210HotelTransylvaniaTiles[];
 extern const u8 gFrontSprite026HoneywispMegaTiles[];
+extern const u8 gFrontSprite211CalyrexTiles[];
 
 
 
@@ -639,6 +640,7 @@ extern const u8 gBackShinySprite208AntennaBeetleTiles[];
 extern const u8 gBackShinySprite209FieryYoungYellowWollyhopTiles[];
 extern const u8 gBackShinySprite210HotelTransylvaniaTiles[];
 extern const u8 gBackShinySprite026HoneywispMegaTiles[];
+extern const u8 gBackShinySprite211CalyrexTiles[];
 
 
 
@@ -962,6 +964,7 @@ extern const u8 gFrontSprite208AntennaBeetlePal[];
 extern const u8 gFrontSprite209FieryYoungYellowWollyhopPal[];
 extern const u8 gFrontSprite210HotelTransylvaniaPal[];
 extern const u8 gFrontSprite026HoneywispMegaPal[];
+extern const u8 gFrontSprite211CalyrexPal[];
 
 
 
@@ -1288,6 +1291,7 @@ extern const u8 gBackShinySprite208AntennaBeetlePal[];
 extern const u8 gBackShinySprite209FieryYoungYellowWollyhopPal[];
 extern const u8 gBackShinySprite210HotelTransylvaniaPal[];
 extern const u8 gBackShinySprite026HoneywispMegaPal[];
+extern const u8 gBackShinySprite211CalyrexPal[];
 
 
 
@@ -1609,3 +1613,4 @@ extern const u8 gIconSprite208AntennaBeetleTiles[];
 extern const u8 gIconSprite209FieryYoungYellowWollyhopTiles[];
 extern const u8 gIconSprite210HotelTransylvaniaTiles[];
 extern const u8 gIconSprite026HoneywispMegaTiles[];
+extern const u8 gIconSprite211CalyrexTiles[];

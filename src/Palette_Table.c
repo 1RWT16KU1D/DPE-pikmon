@@ -326,4 +326,5 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_FIERYYOUNGYELLOWWOLLYHOP] =		{gFrontSprite209FieryYoungYellowWollyhopPal,   		SPECIES_FIERYYOUNGYELLOWWOLLYHOP + NUM_SPECIES, 0x0},
 	[SPECIES_HOTELTRANSYLVANIA] =				{gFrontSprite210HotelTransylvaniaPal,        	 		SPECIES_HOTELTRANSYLVANIA + NUM_SPECIES, 0x0},
 	[SPECIES_HONEYWISP_MEGA] =				{gFrontSprite026HoneywispMegaPal,        	 		SPECIES_HONEYWISP_MEGA + NUM_SPECIES, 0x0},
+	[SPECIES_CALYREX] =				{gFrontSprite211CalyrexPal,        	 		SPECIES_CALYREX + NUM_SPECIES, 0x0},
 };

@@ -3758,7 +3758,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.key = 0x3c,
 		.length = 0x0,
 		.pan_sweep = 0x0,
-		.wav = 0x0,
+		.wav = (u8*) 0x850fbc4,
 		.attack = 0xff,
 		.decay = 0x0,
 		.sustain = 0xff,
@@ -3789,6 +3789,18 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.release = 0x0,
 	},
 	[SPECIES_HONEYWISP_MEGA] =
+	{
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = 0x0,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_CALYREX] =
 	{
 		.type = 0x20,
 		.key = 0x3c,

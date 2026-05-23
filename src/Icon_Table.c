@@ -326,4 +326,5 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_FIERYYOUNGYELLOWWOLLYHOP] = gIconSprite209FieryYoungYellowWollyhopTiles,
 	[SPECIES_HOTELTRANSYLVANIA] = gIconSprite210HotelTransylvaniaTiles,
 	[SPECIES_HONEYWISP_MEGA] = gIconSprite026HoneywispMegaTiles,
+	[SPECIES_CALYREX] = gIconSprite211CalyrexTiles,
 };

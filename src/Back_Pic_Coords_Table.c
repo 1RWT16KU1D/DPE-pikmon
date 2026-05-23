@@ -1592,4 +1592,9 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
+	[SPECIES_CALYREX] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
 };
