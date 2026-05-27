@@ -269,11 +269,30 @@ def TryProcessConditionalCompilation(line: str, definesDict: dict, conditionals:
     return False
 
 
+def ExpandROMTo32MB(rom_path: str):
+    target_size = 32 * 1024 * 1024
+    chunk_size = 1024 * 1024
+
+    with open(rom_path, 'rb+') as rom:
+        rom.seek(0, os.SEEK_END)
+        current_size = rom.tell()
+
+        if current_size > target_size:
+            print('Error: ROM is larger than 32MB after insertion.')
+            sys.exit(1)
+
+        while current_size < target_size:
+            padding_size = min(chunk_size, target_size - current_size)
+            rom.write(b'\xFF' * padding_size)
+            current_size += padding_size
+
+
 def main():
     startTime = datetime.now()
 
     try:
         shutil.copyfile(SOURCE_ROM, ROM_NAME)
+        ExpandROMTo32MB(ROM_NAME)
     except FileNotFoundError:
         print('Error: Insertion could not be completed.\n'
               + 'Could not find source rom: "' + SOURCE_ROM + '".\n'
@@ -535,6 +554,8 @@ def main():
             offsetIni.write(fstr.format(key + ':', table[key] + 0x08000000) + '\n')
         offsetIni.close()
 
+        rom.flush()
+        ExpandROMTo32MB(ROM_NAME)
         print('Inserted in ' + str(datetime.now() - startTime) + '.')
 
 
