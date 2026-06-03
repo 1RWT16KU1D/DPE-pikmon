@@ -327,4 +327,8 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_HOTELTRANSYLVANIA] = gIconSprite210HotelTransylvaniaTiles,
 	[SPECIES_HONEYWISP_MEGA] = gIconSprite026HoneywispMegaTiles,
 	[SPECIES_CALYREX] = gIconSprite211CalyrexTiles,
+	[SPECIES_FREEZECAKE] =      gIconSprite212FreezecakeTiles,
+	[SPECIES_SHOCKCAKE] =      gIconSprite213ShockcakeTiles,
+	[SPECIES_WIDEMOUTHEDANODEBEETLE] =      gIconSprite214WideMouthedAnodeBeetleTiles,
+	[SPECIES_DECORATEDCANNONBEETLE] =      gIconSprite215DecoratedCannonBeetleTiles
 };

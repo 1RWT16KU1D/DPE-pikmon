@@ -3112,4 +3112,52 @@ const struct PokedexEntry gPokedexEntries[REAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 65534,
 	},
+	[NATIONAL_DEX_FREEZECAKE] =
+	{
+		.categoryName = {_I, _m, _i, _t, _a, _t, _i, _o, _n, _END, _SPACE, _SPACE},
+		.height = 12,
+		.weight = 380,
+		.description = (const u8*) 0x84496eb,
+		.unusedDescription = (const u8*) 0x8449624,
+		.pokemonScale = 305,
+		.pokemonOffset = 7,
+		.trainerScale = 256,
+		.trainerOffset = 65534,
+	},
+	[NATIONAL_DEX_SHOCKCAKE] =
+	{
+		.categoryName = {_I, _m, _i, _t, _a, _t, _i, _o, _n, _END, _SPACE, _SPACE},
+		.height = 12,
+		.weight = 380,
+		.description = (const u8*) 0x84496eb,
+		.unusedDescription = (const u8*) 0x8449624,
+		.pokemonScale = 305,
+		.pokemonOffset = 7,
+		.trainerScale = 256,
+		.trainerOffset = 65534,
+	},
+	[NATIONAL_DEX_WIDEMOUTHEDANODEBEETLE] =
+	{
+		.categoryName = {_I, _m, _i, _t, _a, _t, _i, _o, _n, _END, _SPACE, _SPACE},
+		.height = 12,
+		.weight = 380,
+		.description = (const u8*) 0x84496eb,
+		.unusedDescription = (const u8*) 0x8449624,
+		.pokemonScale = 305,
+		.pokemonOffset = 7,
+		.trainerScale = 256,
+		.trainerOffset = 65534,
+	},
+	[NATIONAL_DEX_DECORATEDCANNONBEETLE] =
+	{
+		.categoryName = {_I, _m, _i, _t, _a, _t, _i, _o, _n, _END, _SPACE, _SPACE},
+		.height = 12,
+		.weight = 380,
+		.description = (const u8*) 0x84496eb,
+		.unusedDescription = (const u8*) 0x8449624,
+		.pokemonScale = 305,
+		.pokemonOffset = 7,
+		.trainerScale = 256,
+		.trainerOffset = 65534,
+	},
 };

@@ -1597,4 +1597,24 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
+	[SPECIES_FREEZECAKE] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SHOCKCAKE] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_WIDEMOUTHEDANODEBEETLE] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_DECORATEDCANNONBEETLE] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
 };

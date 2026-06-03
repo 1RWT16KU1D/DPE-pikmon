@@ -3812,4 +3812,52 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
+	[SPECIES_FREEZECAKE] =
+	{
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = 0x0,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_SHOCKCAKE] =
+	{
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = 0x0,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_WIDEMOUTHEDANODEBEETLE] =
+	{
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = 0x0,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_DECORATEDCANNONBEETLE] =
+	{
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = 0x0,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
 };

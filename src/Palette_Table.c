@@ -327,4 +327,8 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_HOTELTRANSYLVANIA] =				{gFrontSprite210HotelTransylvaniaPal,        	 		SPECIES_HOTELTRANSYLVANIA + NUM_SPECIES, 0x0},
 	[SPECIES_HONEYWISP_MEGA] =				{gFrontSprite026HoneywispMegaPal,        	 		SPECIES_HONEYWISP_MEGA + NUM_SPECIES, 0x0},
 	[SPECIES_CALYREX] =				{gFrontSprite211CalyrexPal,        	 		SPECIES_CALYREX + NUM_SPECIES, 0x0},
+	[SPECIES_FREEZECAKE] =          							{gFrontSprite212FreezecakePal,   				 		SPECIES_FREEZECAKE + NUM_SPECIES, 0x0},
+	[SPECIES_SHOCKCAKE] =          								{gFrontSprite213ShockcakePal,   				 		SPECIES_SHOCKCAKE + NUM_SPECIES, 0x0},
+	[SPECIES_WIDEMOUTHEDANODEBEETLE] =           				{gFrontSprite214WideMouthedAnodeBeetlePal,		 		SPECIES_WIDEMOUTHEDANODEBEETLE + NUM_SPECIES, 0x0},
+	[SPECIES_DECORATEDCANNONBEETLE] =							{gFrontSprite215DecoratedCannonBeetlePal,		 		SPECIES_DECORATEDCANNONBEETLE + NUM_SPECIES, 0x0},
 };

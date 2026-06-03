@@ -327,4 +327,8 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_HOTELTRANSYLVANIA] =				{gFrontSprite210HotelTransylvaniaTiles,        	(64 * 64) / 2, 		SPECIES_HOTELTRANSYLVANIA + NUM_SPECIES},
 	[SPECIES_HONEYWISP_MEGA] =				{gFrontSprite026HoneywispMegaTiles,        	(64 * 64) / 2, SPECIES_HONEYWISP_MEGA + NUM_SPECIES},
 	[SPECIES_CALYREX] =				{gFrontSprite211CalyrexTiles,        	(64 * 64) / 2, SPECIES_CALYREX + NUM_SPECIES},
+	[SPECIES_FREEZECAKE] =          							{gFrontSprite212FreezecakeTiles,   				(64 * 64) / 2, 		SPECIES_FREEZECAKE + NUM_SPECIES},
+	[SPECIES_SHOCKCAKE] =          								{gFrontSprite213ShockcakeTiles,   				(64 * 64) / 2, 		SPECIES_SHOCKCAKE + NUM_SPECIES},
+	[SPECIES_WIDEMOUTHEDANODEBEETLE] =           				{gFrontSprite214WideMouthedAnodeBeetleTiles,	(64 * 64) / 2, 		SPECIES_WIDEMOUTHEDANODEBEETLE + NUM_SPECIES},
+	[SPECIES_DECORATEDCANNONBEETLE] =							{gFrontSprite215DecoratedCannonBeetleTiles,		(64 * 64) / 2, 		SPECIES_DECORATEDCANNONBEETLE + NUM_SPECIES},
 };
