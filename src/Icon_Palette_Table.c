@@ -2,7 +2,7 @@
 
 const u8 gMonIconPaletteIndices[NUM_SPECIES] =
 {
-	[SPECIES_NONE] 				= 0x0,
+	[SPECIES_NONE] 				= 0x3,
 	[SPECIES_BULBORBLARVA] 			= 0x3,
 	[SPECIES_BULBORB] 			= 0x1,
 	[SPECIES_JUMBOBULBORB] 			= 0x1,

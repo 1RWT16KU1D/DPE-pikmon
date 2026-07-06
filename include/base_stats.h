@@ -29,9 +29,10 @@ struct BaseStats
  /* 0x16 */ u8 ability1;
  /* 0x17 */ u8 ability2;
  /* 0x18 */ u8 safariZoneFleeRate;
- /* 0x19 */ u8 bodyColor : 0x1;
+ /* 0x19 */ u8 bodyColor: 7;
             u8 noFlip : 1;
- /* 0x1A */	u8 hiddenAbility;		
+ /* 0x1A */	u8 hiddenAbility;	
+            u8 shinyColor;
 };
 
 enum
@@ -73,9 +74,12 @@ enum
     BODY_COLOR_BLACK,
     BODY_COLOR_BROWN,
     BODY_COLOR_PURPLE,
-    BODY_COLOR_GRAY,
+    BODY_COLOR_CYAN,
     BODY_COLOR_WHITE,
-    BODY_COLOR_PINK
+    BODY_COLOR_PINK,
+    BODY_COLOR_TRIPLE,
+    BODY_COLOR_THREAT,
+    BODY_COLOR_ONION,
 };
 
 #define TYPE_NORMAL   0x00
