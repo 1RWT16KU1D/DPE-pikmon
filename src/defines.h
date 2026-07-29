@@ -105,6 +105,9 @@ extern const u8 gText_DexCategory_MountainPkmn[];
 extern const u8 gText_DexCategory_RoughTerrainPkmn[];
 extern const u8 gText_DexCategory_UrbanPkmn[];
 extern const u8 gText_DexCategory_RarePkmn[]; 
+extern const u8 gText_DexCategory_SecretPkmn[]; 
+extern const u8 gText_ColorMode[]; 
+extern const u8 gText_OriginMode[]; 
 #define gText_Search (void*)0x8415E88 
 #define gText_AToZMode (void*)0x8415EA4 
 #define gText_PokedexOther (void*)0x8415EB0 

@@ -17,7 +17,6 @@ const u16 gGrasslandPage1[] =
 {
 	SPECIES_ROCKPIKMIN,
 	SPECIES_ROCKPIKMIN_MEGA,
-	SPECIES_SOUL_ROCK,
 };
 
 const u16 gGrasslandPage2[] =
@@ -31,38 +30,37 @@ const u16 gGrasslandPage2[] =
 const u16 gGrasslandPage3[] =
 {
 	SPECIES_HONEYWISP,
-	SPECIES_HONEYWISP_MEGA,
 	SPECIES_DANDELFLY,
 	SPECIES_DANDELFLY_MEGA,
+	SPECIES_SUNQUISH,
 };
 
 const u16 gGrasslandPage4[] =
-{
-	SPECIES_CREEPINGCHRYSANTHEMUM,
-	SPECIES_STARTLESPORE,
-	SPECIES_PELLETPOSY,
-	SPECIES_MASTERONION,
-};
-
-const u16 gGrasslandPage5[] =
 {
 	SPECIES_BURROWNIT,
 	SPECIES_JOUSTMITE,
 	SPECIES_FLIGHTYJOUSTMITE,
 };
 
-const u16 gGrasslandPage6[] =
+const u16 gGrasslandPage5[] =
 {
-	SPECIES_WADDLEQUAFF,
 	SPECIES_PROQUILLION,
-	SPECIES_SUNQUISH,
+	SPECIES_WADDLEQUAFF,
 };
 
-const u16 gGrasslandPage7[] =
+const u16 gGrasslandPage6[] =
 {
 	SPECIES_MOCKIWI,
 	SPECIES_CRESTEDMOCKIWI,
 	SPECIES_ELONGATEDCRUSHBLAT,
+};
+
+const u16 gGrasslandPage7[] =
+{
+	SPECIES_CREEPINGCHRYSANTHEMUM,
+	SPECIES_STARTLESPORE,
+	SPECIES_PELLETPOSY,
+	SPECIES_MASTERONION,
 };
 
 const u16 gGrasslandPage8[] =
@@ -87,16 +85,15 @@ const u16 gGrasslandPage10[] =
 
 const u16 gGrasslandPage11[] =
 {
-	SPECIES_SPECTRALID_ELECTRIC,
 	SPECIES_SPECTRALID_HEY0,
 	SPECIES_SPECTRALID_HEY1,
+	SPECIES_SPECTRALID_ELECTRIC,
 };
 
 const u16 gForestPage1[] =
 {
 	SPECIES_YELLOWPIKMIN,
 	SPECIES_YELLOWPIKMIN_MEGA,
-	SPECIES_SOUL_YELLOW,
 };
 
 const u16 gForestPage2[] =
@@ -150,20 +147,18 @@ const u16 gForestPage8[] =
 	SPECIES_SHAGGYLONGLEGS,
 };
 
-const u16 gForestPage12[] =
+const u16 gForestPage9[] =
 {
 	SPECIES_WHISKERPILLAR,
-	SPECIES_WHISKERPILLAR_MEGAB,
-	SPECIES_WHISKERPILLAR_MEGAS,
 };
 
-const u16 gForestPage9[] =
+const u16 gForestPage10[] =
 {
 	SPECIES_DWARFBULBORB,
 	SPECIES_DWARFORANGEBULBORB,
 };
 
-const u16 gForestPage10[] =
+const u16 gForestPage11[] =
 {
 	SPECIES_BULBORBLARVA,
 	SPECIES_BULBORB,
@@ -171,7 +166,7 @@ const u16 gForestPage10[] =
 	SPECIES_JUMBOBULBORB_MEGA,
 };
 
-const u16 gForestPage11[] =
+const u16 gForestPage12[] =
 {
 	SPECIES_EMPERORBULBLAX,
 	SPECIES_SOVREIGNBULBLAX,
@@ -182,43 +177,33 @@ const u16 gWatersEdgePage1[] =
 {
 	SPECIES_BLUEPIKMIN,
 	SPECIES_BLUEPIKMIN_MEGA,
-	SPECIES_SOUL_BLUE,
 };
 
 const u16 gWatersEdgePage2[] =
-{
-	SPECIES_SKUTTERCHUCK,
-	SPECIES_CALCIFIEDCRUSHBLAT,
-	SPECIES_ARISTOCRABOFFSPRING,
-	SPECIES_ARISTOCRAB,
-};
-
-const u16 gWatersEdgePage3[] =
-{
-	SPECIES_PUCKERINGBLINNOW,
-	SPECIES_SPUTTLEFISH,
-	SPECIES_PRICKLEPUFF,
-};
-
-const u16 gWatersEdgePage11[] =
-{
-	SPECIES_WADDLEPUS,
-	SPECIES_REDBUBBLIMP,
-	SPECIES_STARNACLE,
-};
-
-const u16 gWatersEdgePage4[] =
 {
 	SPECIES_SKEETERSKATE,
 	SPECIES_MUCKERSKATE,
 	SPECIES_MUCKERSKATE_MEGA,
 };
 
+const u16 gWatersEdgePage3[] =
+{
+	SPECIES_SKUTTERCHUCK,
+	SPECIES_CALCIFIEDCRUSHBLAT,
+};
+
+const u16 gWatersEdgePage4[] =
+{
+	SPECIES_PUCKERINGBLINNOW,
+	SPECIES_SPUTTLEFISH,
+	SPECIES_PRICKLEPUFF,
+};
+
 const u16 gWatersEdgePage5[] =
 {
-	SPECIES_WITHERINGBLOWHOG,
-	SPECIES_PUFFYBLOWHOG,
-	SPECIES_ICYBLOWHOG,
+	SPECIES_WADDLEPUS,
+	SPECIES_REDBUBBLIMP,
+	SPECIES_STARNACLE,
 };
 
 const u16 gWatersEdgePage6[] =
@@ -230,24 +215,34 @@ const u16 gWatersEdgePage6[] =
 
 const u16 gWatersEdgePage7[] =
 {
-	SPECIES_WOLPOLE,
-	SPECIES_YELLOWWOLLYHOP,
-	SPECIES_MASTERHOP,
-	SPECIES_MASTERHOP_MEGA,
+	SPECIES_WITHERINGBLOWHOG,
+	SPECIES_PUFFYBLOWHOG,
+	SPECIES_ICYBLOWHOG,
 };
 
 const u16 gWatersEdgePage8[] =
 {
+	SPECIES_ARISTOCRABOFFSPRING,
+	SPECIES_ARISTOCRAB,
 	SPECIES_CRUSTEDRUMPUP,
 	SPECIES_CRUSTEDRUMPUP_MEGA,
 };
 
 const u16 gWatersEdgePage9[] =
 {
+	SPECIES_WOLPOLE,
+	SPECIES_YELLOWWOLLYHOP,
+	SPECIES_MASTERHOP,
+	SPECIES_MASTERHOP_MEGA,
+};
+
+
+const u16 gWatersEdgePage10[] =
+{
 	SPECIES_SANDBELCHINGMEERSLUG,
 };
 
-const u16 gWatersEdgePage10[] =
+const u16 gWatersEdgePage11[] =
 {
 	SPECIES_QUAGGLEDMIRECLOPS,
 	SPECIES_QUAGGLEDMIRECLOPS_MEGA,
@@ -257,7 +252,6 @@ const u16 gSeaPage1[] =
 {
 	SPECIES_PURPLEPIKMIN,
 	SPECIES_PURPLEPIKMIN_MEGA,
-	SPECIES_SOUL_PURPLE,
 };
 
 const u16 gSeaPage2[] =
@@ -270,26 +264,34 @@ const u16 gSeaPage2[] =
 
 const u16 gSeaPage3[] =
 {
-	SPECIES_HERMITCRAWMAD,
-	SPECIES_BUGEYEDCRAWMAD,
-	SPECIES_SEGMENTEDCRAWBSTER,
+	SPECIES_MOLDYDWARFBULBORB,
+	SPECIES_MOLDYSLOOCH,
+	SPECIES_TOXSTOOL,
 };
 
 const u16 gSeaPage4[] =
+{
+	SPECIES_HERMITCRAWMAD,
+	SPECIES_BUGEYEDCRAWMAD,
+	SPECIES_CRAMMEDWRAITH,
+	SPECIES_SEGMENTEDCRAWBSTER,
+};
+
+const u16 gSeaPage5[] =
 {
 	SPECIES_LESSERSPOTTEDJELLYFLOAT,
 	SPECIES_GREATERSPOTTEDJELLYFLOAT,
 	SPECIES_GREATERSPOTTEDJELLYFLOAT_MEGA,
 };
 
-const u16 gSeaPage5[] =
+const u16 gSeaPage6[] =
 {
 	SPECIES_TOADYBLOYSTER,
 	SPECIES_RANGINGBLOYSTER,
 	SPECIES_BLOOMCAPBLOYSTER,
 };
 
-const u16 gSeaPage6[] =
+const u16 gSeaPage7[] =
 {
 	SPECIES_WOLLYHOP,
 	SPECIES_CHILLYHOP,
@@ -297,42 +299,31 @@ const u16 gSeaPage6[] =
 	SPECIES_LONGWATERDUMPLE,
 };
 
-const u16 gSeaPage15[] =
+const u16 gSeaPage8[] =
 {
 	SPECIES_WATERYBLOWHOG,
 	SPECIES_WATERYBLOWHOG_MEGA,
 };
 
-const u16 gSeaPage7[] =
-{
-	SPECIES_MOLDYDWARFBULBORB,
-	SPECIES_MOLDYSLOOCH,
-	SPECIES_TOXSTOOL,
-};
-
-const u16 gSeaPage8[] =
+const u16 gSeaPage9[] =
 {
 	SPECIES_ANODEBEETLE,
 	SPECIES_WIDEMOUTHEDANODEBEETLE,
 	SPECIES_ELECTRICCOTTONADE,
+	SPECIES_ANTENNABEETLE,
 };
 
-const u16 gSeaPage13[] =
+const u16 gSeaPage10[] =
 {
 	SPECIES_ICEBLOWNDWEEVIL_F,
 	SPECIES_ICEBLOWNDWEEVIL_E,
 	SPECIES_ICEBLOWNDWEEVIL_W,
 };
 
-const u16 gSeaPage14[] =
+const u16 gSeaPage11[] =
 {
 	SPECIES_ICEBLOWNDWEEVIL_P,
 	SPECIES_ICEBLOWNDWEEVIL,
-	SPECIES_ANTENNABEETLE,
-};
-
-const u16 gSeaPage10[] =
-{
 	SPECIES_TITANDWEEVIL,
 };
 
@@ -344,13 +335,13 @@ const u16 gSeaPage12[] =
 	SPECIES_TITANDWEEVIL_WATER,
 };
 
-const u16 gSeaPage9[] =
+const u16 gSeaPage13[] =
 {
 	SPECIES_WATERWRAITH,
 	SPECIES_WATERWRAITH_NOTIRES,
 };
 
-const u16 gSeaPage11[] =
+const u16 gSeaPage14[] =
 {
 	SPECIES_REMEMBEREDOLDBUDDY,
 };
@@ -359,7 +350,6 @@ const u16 gCavePage1[] =
 {
 	SPECIES_WHITEPIKMIN,
 	SPECIES_WHITEPIKMIN_MEGA,
-	SPECIES_SOUL_WHITE,
 };
 
 const u16 gCavePage2[] =
@@ -397,7 +387,7 @@ const u16 gCavePage6[] =
 	SPECIES_MANATLEGS_MEGA,
 };
 
-const u16 gCavePage13[] =
+const u16 gCavePage7[] =
 {
 	SPECIES_GATTLINGGROINK,
 	SPECIES_GATTLINGGROINK_MEGA,
@@ -405,7 +395,7 @@ const u16 gCavePage13[] =
 	SPECIES_PYROCLASTICSLOOCH_MEGA,
 };
 
-const u16 gCavePage7[] =
+const u16 gCavePage8[] =
 {
 	SPECIES_SCORCHCAKE,
 	SPECIES_FREEZECAKE,
@@ -413,18 +403,17 @@ const u16 gCavePage7[] =
 	SPECIES_SCORCHCAKE_MEGA,
 };
 
-const u16 gCavePage8[] =
+const u16 gCavePage9[] =
 {
-	SPECIES_CRAMMEDWRAITH,
 	SPECIES_ARMURK,
 };
 
-const u16 gCavePage9[] =
+const u16 gCavePage10[] =
 {
 	SPECIES_ALBINODWARFBULBORB,
 };
 
-const u16 gCavePage12[] =
+const u16 gCavePage11[] =
 {
 	SPECIES_HAIRYBULBORB,
 	SPECIES_WHIPTONGUEBULBORB,
@@ -432,7 +421,7 @@ const u16 gCavePage12[] =
 	SPECIES_FIERYBULBLAX,
 };
 
-const u16 gCavePage10[] =
+const u16 gCavePage12[] =
 {
 	SPECIES_FIERYBLOWLET,
 	SPECIES_FIERYBLOWHOG,
@@ -440,7 +429,7 @@ const u16 gCavePage10[] =
 	SPECIES_TITANBLOWHOG_MEGA,
 };
 
-const u16 gCavePage11[] =
+const u16 gCavePage13[] =
 {
 	SPECIES_MYSTERIOUSLIFEFORM,
 	SPECIES_PLASMWRAITH,
@@ -451,7 +440,7 @@ const u16 gMountainPage1[] =
 	SPECIES_REDPIKMIN,
 	SPECIES_REDPIKMIN_VETERAN,
 	SPECIES_REDPIKMIN_MEGA,
-	SPECIES_SOUL_RED,
+	SPECIES_REDPIKMIN_VETERAN_MEGA,
 };
 
 const u16 gMountainPage2[] =
@@ -507,11 +496,11 @@ const u16 gMountainPage10[] =
 {
 	SPECIES_COURAGEREACTOR,
 };
+
 const u16 gRoughTerrainPage1[] =
 {
 	SPECIES_WINGEDPIKMIN,
 	SPECIES_WINGEDPIKMIN_MEGA,
-	SPECIES_SOUL_WINGED,
 };
 
 const u16 gRoughTerrainPage2[] =
@@ -520,53 +509,53 @@ const u16 gRoughTerrainPage2[] =
 	SPECIES_PUFFMIN_MEGA,
 };
 
-const u16 gRoughTerrainPage10[] =
+const u16 gRoughTerrainPage3[] =
 {
 	SPECIES_PUFFSTALK,
 	SPECIES_PUFFSTOOL,
 	SPECIES_PUFFSTOOL_MEGA,
 };
 
-const u16 gRoughTerrainPage3[] =
+const u16 gRoughTerrainPage4[] =
 {
 	SPECIES_UJADANI,
 	SPECIES_MITITE,
 };
 
-const u16 gRoughTerrainPage4[] =
+const u16 gRoughTerrainPage5[] =
 {
 	SPECIES_SCORNET,
 	SPECIES_SCORNETMAESTRO,
 };
 
-const u16 gRoughTerrainPage5[] =
+const u16 gRoughTerrainPage6[] =
 {
 	SPECIES_ARACHNODE,
 };
 
-const u16 gRoughTerrainPage6[] =
+const u16 gRoughTerrainPage7[] =
 {
 	SPECIES_BOGSWALLOW,
 	SPECIES_BOGSWALLOW_MEGA,
 };
 
-const u16 gRoughTerrainPage7[] =
+const u16 gRoughTerrainPage8[] =
 {
 	SPECIES_GRUBCHUCKER,
 };
 
-const u16 gRoughTerrainPage11[] =
+const u16 gRoughTerrainPage9[] =
 {
 	SPECIES_FIREFLAPBULBORB,
 };
 
-const u16 gRoughTerrainPage8[] =
+const u16 gRoughTerrainPage10[] =
 {
 	SPECIES_CENTIPARE,
 	SPECIES_ADULTCENTIPARE,
 };
 
-const u16 gRoughTerrainPage9[] =
+const u16 gRoughTerrainPage11[] =
 {
 	SPECIES_GRABBIT,
 	SPECIES_COPPELLER,
@@ -577,7 +566,6 @@ const u16 gUrbanPage1[] =
 {
 	SPECIES_ICEPIKMIN,
 	SPECIES_ICEPIKMIN_MEGA,
-	SPECIES_SOUL_ICE,
 };
 
 const u16 gUrbanPage2[] =
@@ -642,37 +630,56 @@ const u16 gRarePage1[] =
 	SPECIES_GLOWSEED,
 	SPECIES_GLOWPIKMIN,
 	SPECIES_GLOWPIKMIN_MEGA,
-	SPECIES_SOUL,
 };
 
 const u16 gRarePage2[] =
 {
-	SPECIES_BERSERKLEECHHYDROE,
+	SPECIES_SOUL_RED,
+	SPECIES_SOUL_YELLOW,
+	SPECIES_SOUL_BLUE,
 };
 
 const u16 gRarePage3[] =
+{
+	SPECIES_SOUL_PURPLE,
+	SPECIES_SOUL_WHITE,
+	SPECIES_SOUL_ROCK,
+	SPECIES_SOUL_WINGED,
+};
+
+const u16 gRarePage4[] =
+{
+	SPECIES_SOUL_ICE,
+	SPECIES_SOUL,
+};
+
+const u16 gRarePage5[] =
 {
 	SPECIES_MAMUTA,
 	SPECIES_SMOKYPROGG,
 	SPECIES_SMOKYPROGG_MASTER,
 };
 
-const u16 gRarePage5[] =
+const u16 gRarePage6[] =
 {
 	SPECIES_OATCHI,
 	SPECIES_OATCHI_MEGA,
 	SPECIES_OATCHI_MEGAB,
 };
 
-const u16 gRarePage4[] =
+const u16 gRarePage7[] =
 {
 	SPECIES_MOSS,
 	SPECIES_MOSS_MEGA,
 	SPECIES_MOSS_MEGAB,
+};
+
+const u16 gRarePage8[] =
+{
 	SPECIES_ANCIENTSIREHOUND,
 };
 
-const u16 gRarePage6[] =
+const u16 gRarePage9[] =
 {
 	SPECIES_ANCIENTSIREHOUND_ICE,
 	SPECIES_ANCIENTSIREHOUND_ELECTRIC,
@@ -680,13 +687,37 @@ const u16 gRarePage6[] =
 	SPECIES_ANCIENTSIREHOUND_GLOOM,
 };
 
-const u16 gRarePage7[] =
+const u16 gRarePage10[] =
+{
+	SPECIES_BERSERKLEECHHYDROE,
+};
+
+const u16 gRarePage11[] =
 {
 	SPECIES_PEBBLEPITCHER,
 	SPECIES_BULBORBWITHAGUN,
 };
 
-const u16 gRarePage8[] =
+const u16 gRarePage12[] =
+{
+	SPECIES_PLACEHOLDERLARVA,
+};
+
+const u16 gRarePage13[] =
+{
+	SPECIES_DEMO77,
+	SPECIES_USUBA,
+	SPECIES_KAKUREIMO,
+};
+
+const u16 gRarePage14[] =
+{
+	SPECIES_PIKUTABE,
+	SPECIES_NAMAPONGASHI,
+	SPECIES_CHAPPYPROTO,
+};
+
+const u16 gRarePage15[] =
 {
 	SPECIES_KIRBY,
 	SPECIES_KIRBY_GRASS,
@@ -694,7 +725,7 @@ const u16 gRarePage8[] =
 	SPECIES_KIRBY_WATER,
 };
 
-const u16 gRarePage9[] =
+const u16 gRarePage16[] =
 {
 	SPECIES_KIRBY_ELECTRIC,
 	SPECIES_KIRBY_ICE,
@@ -702,7 +733,7 @@ const u16 gRarePage9[] =
 	SPECIES_KIRBY_GROUND,
 };
 
-const u16 gRarePage10[] =
+const u16 gRarePage17[] =
 {
 	SPECIES_KIRBY_FIGHTING,
 	SPECIES_KIRBY_PSYCHIC,
@@ -710,73 +741,147 @@ const u16 gRarePage10[] =
 	SPECIES_KIRBY_POISON,
 };
 
-const u16 gRarePage11[] =
+const u16 gRarePage18[] =
 {
 	SPECIES_KIRBY_BUG,
 	SPECIES_KIRBY_FLYING,
 	SPECIES_KIRBY_DRAGON,
 };
 
-const u16 gRarePage12[] =
+const u16 gRarePage19[] =
 {
 	SPECIES_KIRBY_DARK,
 	SPECIES_KIRBY_STEEL,
 	SPECIES_KIRBY_FAIRY,
 };
 
-const u16 gRarePage13[] =
+const u16 gSecretPage1[] =
 {
-	SPECIES_PLACEHOLDERLARVA,
+	MURAL_TOYPIKMIN_RED,
+	MURAL_TOYPIKMIN_YELLOW,
+	MURAL_TOYPIKMIN_BLUE,
 };
 
-const u16 gRarePage14[] =
+const u16 gSecretPage2[] =
 {
-	SPECIES_DEMO77,
-	SPECIES_USUBA,
-	SPECIES_KAKUREIMO,
+	MURAL_PIKI_MALE,
+	MURAL_PIKI_FEMALE,
+	MURAL_USUALSUSPECT,
 };
 
-const u16 gRarePage15[] =
+const u16 gSecretPage3[] =
 {
-	SPECIES_PIKUTABE,
-	SPECIES_NAMAPONGASHI,
-	SPECIES_CHAPPYPROTO,
+	MURAL_DEMOF,
+	MURAL_DEMOG,
+	MURAL_DEMOI,
+	MURAL_DEMOW,
 };
 
-const u16 gRarePage16[] =
+
+const u16 gSecretPage4[] =
 {
-	SPECIES_TOYPIKMIN_RED,
-	SPECIES_TOYPIKMIN_YELLOW,
-	SPECIES_TOYPIKMIN_BLUE,
+	MURAL_HONEYWISP_MEGA,
+	MURAL_WHISKERPILLAR_MEGAS,
+	MURAL_WHISKERPILLAR_MEGAB,
 };
 
-const u16 gRarePage17[] =
+const u16 gSecretPage5[] =
 {
-	SPECIES_PIKI_MALE,
-	SPECIES_PIKI_FEMALE,
-	SPECIES_USUALSUSPECT,
+	MURAL_FIERYYOUNGYELLOWWOLLYHOP,
+	MURAL_IWAGEN,
+	MURAL_BULBEEL,
 };
 
-const u16 gRarePage18[] =
+const u16 gSecretPage6[] =
 {
-	SPECIES_DEMOF,
-	SPECIES_DEMOG,
-	SPECIES_DEMOI,
-	SPECIES_DEMOW,
+	MURAL_SPOTCAP,
+	MURAL_KINGCAP,
+	MURAL_FIDDLEHEAD,
+	MURAL_HORSETAIL,
 };
 
-const u16 gRarePage19[] =
+const u16 gSecretPage7[] =
 {
-	SPECIES_PETEYPIRANNHA,
-	SPECIES_HOTELTRANSYLVANIA,
-	SPECIES_METEOR,
-	SPECIES_CHERRY,
+	MURAL_SPOTCAP,
+	MURAL_KINGCAP,
+	MURAL_FIDDLEHEAD,
+	MURAL_HORSETAIL,
 };
 
-const u16 gRarePage20[] =
+const u16 gSecretPage8[] =
 {
-	SPECIES_FIERYYOUNGYELLOWWOLLYHOP,
-	SPECIES_CALYREX,
+	MURAL_METEOR,
+	MURAL_CHERRY,
+	MURAL_BULBIE,
+};
+
+const u16 gSecretPage9[] =
+{
+	MURAL_HOTELTRANSYLVANIA,
+};
+
+const u16 gSecretPage10[] =
+{
+	MURAL_128MARIOS,
+	MURAL_PETEYPIRANNHA,
+	MURAL_CALYREX,
+	MURAL_PIKACHU,
+};
+
+const u16 gSecretPage11[] =
+{
+	MURAL_PINKELEBIT,
+	MURAL_CHIBIROBO,
+	MURAL_PRIMALASPID,
+	MURAL_SLUGCAT,
+};
+
+const u16 gSecretPage12[] =
+{
+	MURAL_COCKATRICE,
+	MURAL_BUPBORB,
+	MURAL_DWARFKERMIT,
+	MURAL_BULBLAXLARVA,
+};
+
+const u16 gSecretPage13[] =
+{
+	MURAL_COALBEETLE,
+	MURAL_SKITTERJUANA,
+};
+
+const u16 gSecretPage14[] =
+{
+	MURAL_HEAVYCANNONLARVA,
+	MURAL_APACHE,
+};
+
+const u16 gSecretPage15[] =
+{
+	MURAL_WAHPOLE,
+	MURAL_WALUIGIWOG,
+};
+
+const u16 gSecretPage16[] =
+{
+	MURAL_CREWMATE,
+	MURAL_IMPOSTER,
+};
+
+const u16 gSecretPage17[] =
+{
+	MURAL_MORSHUBUG,
+	MURAL_LINKGRET,
+};
+
+const u16 gSecretPage18[] =
+{
+	MURAL_STEPHAN,
+};
+
+const u16 gSecretPage19[] =
+{
+	MURAL_OLIMANATLEGS,
 };
 
 const struct HabitatPage gGrasslandPages[] =
@@ -804,10 +909,10 @@ const struct HabitatPage gForestPages[] =
 	{gForestPage6, ARRAY_COUNT(gForestPage6)},
 	{gForestPage7, ARRAY_COUNT(gForestPage7)},
 	{gForestPage8, ARRAY_COUNT(gForestPage8)},
-	{gForestPage12, ARRAY_COUNT(gForestPage12)},
 	{gForestPage9, ARRAY_COUNT(gForestPage9)},
 	{gForestPage10, ARRAY_COUNT(gForestPage10)},
 	{gForestPage11, ARRAY_COUNT(gForestPage11)},
+	{gForestPage12, ARRAY_COUNT(gForestPage12)},
 };
 
 const struct HabitatPage gWatersEdgePages[] =
@@ -815,7 +920,6 @@ const struct HabitatPage gWatersEdgePages[] =
 	{gWatersEdgePage1, ARRAY_COUNT(gWatersEdgePage1)},
 	{gWatersEdgePage2, ARRAY_COUNT(gWatersEdgePage2)},
 	{gWatersEdgePage3, ARRAY_COUNT(gWatersEdgePage3)},
-	{gWatersEdgePage11, ARRAY_COUNT(gWatersEdgePage11)},
 	{gWatersEdgePage4, ARRAY_COUNT(gWatersEdgePage4)},
 	{gWatersEdgePage5, ARRAY_COUNT(gWatersEdgePage5)},
 	{gWatersEdgePage6, ARRAY_COUNT(gWatersEdgePage6)},
@@ -823,6 +927,7 @@ const struct HabitatPage gWatersEdgePages[] =
 	{gWatersEdgePage8, ARRAY_COUNT(gWatersEdgePage8)},
 	{gWatersEdgePage9, ARRAY_COUNT(gWatersEdgePage9)},
 	{gWatersEdgePage10, ARRAY_COUNT(gWatersEdgePage10)},
+	{gWatersEdgePage11, ARRAY_COUNT(gWatersEdgePage11)},
 };
 
 const struct HabitatPage gSeaPages[] =
@@ -833,15 +938,14 @@ const struct HabitatPage gSeaPages[] =
 	{gSeaPage4, ARRAY_COUNT(gSeaPage4)},
 	{gSeaPage5, ARRAY_COUNT(gSeaPage5)},
 	{gSeaPage6, ARRAY_COUNT(gSeaPage6)},
-	{gSeaPage15, ARRAY_COUNT(gSeaPage15)},
 	{gSeaPage7, ARRAY_COUNT(gSeaPage7)},
 	{gSeaPage8, ARRAY_COUNT(gSeaPage8)},
+	{gSeaPage9, ARRAY_COUNT(gSeaPage9)},
+	{gSeaPage10, ARRAY_COUNT(gSeaPage10)},
+	{gSeaPage11, ARRAY_COUNT(gSeaPage11)},
+	{gSeaPage12, ARRAY_COUNT(gSeaPage12)},
 	{gSeaPage13, ARRAY_COUNT(gSeaPage13)},
 	{gSeaPage14, ARRAY_COUNT(gSeaPage14)},
-	{gSeaPage10, ARRAY_COUNT(gSeaPage10)},
-	{gSeaPage12, ARRAY_COUNT(gSeaPage12)},
-	{gSeaPage9, ARRAY_COUNT(gSeaPage9)},
-	{gSeaPage11, ARRAY_COUNT(gSeaPage11)},
 };
 
 const struct HabitatPage gCavePages[] =
@@ -852,13 +956,13 @@ const struct HabitatPage gCavePages[] =
 	{gCavePage4, ARRAY_COUNT(gCavePage4)},
 	{gCavePage5, ARRAY_COUNT(gCavePage5)},
 	{gCavePage6, ARRAY_COUNT(gCavePage6)},
-	{gCavePage13, ARRAY_COUNT(gCavePage13)},
 	{gCavePage7, ARRAY_COUNT(gCavePage7)},
 	{gCavePage8, ARRAY_COUNT(gCavePage8)},
 	{gCavePage9, ARRAY_COUNT(gCavePage9)},
-	{gCavePage12, ARRAY_COUNT(gCavePage12)},
 	{gCavePage10, ARRAY_COUNT(gCavePage10)},
 	{gCavePage11, ARRAY_COUNT(gCavePage11)},
+	{gCavePage12, ARRAY_COUNT(gCavePage12)},
+	{gCavePage13, ARRAY_COUNT(gCavePage13)},
 };
 
 const struct HabitatPage gMountainPages[] =
@@ -909,8 +1013,8 @@ const struct HabitatPage gRarePages[] =
 	{gRarePage1, ARRAY_COUNT(gRarePage1)},
 	{gRarePage2, ARRAY_COUNT(gRarePage2)},
 	{gRarePage3, ARRAY_COUNT(gRarePage3)},
-	{gRarePage5, ARRAY_COUNT(gRarePage5)},
 	{gRarePage4, ARRAY_COUNT(gRarePage4)},
+	{gRarePage5, ARRAY_COUNT(gRarePage5)},
 	{gRarePage6, ARRAY_COUNT(gRarePage6)},
 	{gRarePage7, ARRAY_COUNT(gRarePage7)},
 	{gRarePage8, ARRAY_COUNT(gRarePage8)},
@@ -925,7 +1029,31 @@ const struct HabitatPage gRarePages[] =
 	{gRarePage17, ARRAY_COUNT(gRarePage17)},
 	{gRarePage18, ARRAY_COUNT(gRarePage18)},
 	{gRarePage19, ARRAY_COUNT(gRarePage19)},
-	{gRarePage20, ARRAY_COUNT(gRarePage20)},
+/*
+};
+
+const struct HabitatPage gSecretPages[] =
+{
+*/
+	{gSecretPage1, ARRAY_COUNT(gSecretPage1)},
+	{gSecretPage2, ARRAY_COUNT(gSecretPage2)},
+	{gSecretPage3, ARRAY_COUNT(gSecretPage3)},
+	{gSecretPage4, ARRAY_COUNT(gSecretPage4)},
+	{gSecretPage5, ARRAY_COUNT(gSecretPage5)},
+	{gSecretPage6, ARRAY_COUNT(gSecretPage6)},
+	{gSecretPage7, ARRAY_COUNT(gSecretPage7)},
+	{gSecretPage8, ARRAY_COUNT(gSecretPage8)},
+	{gSecretPage9, ARRAY_COUNT(gSecretPage9)},
+	{gSecretPage10, ARRAY_COUNT(gSecretPage10)},
+	{gSecretPage11, ARRAY_COUNT(gSecretPage11)},
+	{gSecretPage12, ARRAY_COUNT(gSecretPage12)},
+	{gSecretPage13, ARRAY_COUNT(gSecretPage13)},
+	{gSecretPage14, ARRAY_COUNT(gSecretPage14)},
+	{gSecretPage15, ARRAY_COUNT(gSecretPage15)},
+	{gSecretPage16, ARRAY_COUNT(gSecretPage16)},
+	{gSecretPage17, ARRAY_COUNT(gSecretPage17)},
+	{gSecretPage18, ARRAY_COUNT(gSecretPage18)},
+	{gSecretPage19, ARRAY_COUNT(gSecretPage19)},
 };
 
 const struct Habitat gHabitatPtrsTable[9] =
@@ -939,5 +1067,6 @@ const struct Habitat gHabitatPtrsTable[9] =
 	{gRoughTerrainPages, ARRAY_COUNT(gRoughTerrainPages)},
 	{gUrbanPages, ARRAY_COUNT(gUrbanPages)},
 	{gRarePages, ARRAY_COUNT(gRarePages)},
+	//{gSecretPages, ARRAY_COUNT(gSecretPages)},
 
 };

@@ -44,5 +44,14 @@ HIDEAWAY PIKMON
 #org @gText_DexCategory_RarePkmn
 RARE PIKMON
 
+#org @gText_DexCategory_SecretPkmn
+SECRET MURALS
+
 #org @gText_ClosePokedex
 CLOSE PIKLOPEDIA 
+
+#org @gText_ColorMode
+COLOR MODE
+
+#org @gText_OriginMode
+ORIGIN MODE

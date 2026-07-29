@@ -408,7 +408,7 @@ AlbinoBorb
 HairyBorb
 
 #org @NAME_WHIPTONGUEBULBORB
-W.Bulborb
+WpTngBorb
 
 #org @NAME_ORANGEBULBORB
 OrangeBorb
@@ -590,6 +590,36 @@ Gildmandwe
 #org @NAME_GILDEMANDWER_NOGOLD
 Gildmander
 
+#org @NAME_REDBUBBLIMP
+Bubblimp
+
+#org @NAME_STARNACLE
+Starnacle
+
+#org @NAME_SHEARFLEA
+Shearflea
+
+#org @NAME_WHISKERPILLAR
+Whskrpilar
+
+#org @NAME_ICYBLOWHOG
+IcyBlowhog
+
+#org @NAME_FREEZECAKE
+Freezecake
+
+#org @NAME_SHOCKCAKE
+Shockcake
+
+#org @NAME_WIDEMOUTHEDANODEBEETLE
+WdMthAnode
+
+#org @NAME_DECORATEDCANNONBEETLE
+DecorBetle
+
+#org @NAME_ANTENNABEETLE
+AntnaBeetl
+
 #org @NAME_BEARDEDAMPRAT_STATIC
 Amprat
 
@@ -722,6 +752,39 @@ Soul
 #org @NAME_SOUL_ICE
 Soul
 
+#org @NAME_WATERWRAITH_NOTIRES
+WatrWraith
+
+#org @NAME_ICEBLOWNDWEEVIL_F
+Dweevil
+
+#org @NAME_ICEBLOWNDWEEVIL_E
+Dweevil
+
+#org @NAME_ICEBLOWNDWEEVIL_W
+Dweevil
+
+#org @NAME_ICEBLOWNDWEEVIL_P
+Dweevil
+
+#org @NAME_MYSTERIOUSLIFEFORM
+???
+
+#org @NAME_MYSTERIOUSLIFEFORM_BULBORB
+RedBulborb
+
+#org @NAME_MYSTERIOUSLIFEFORM_AMPRAT
+Amprat
+
+#org @NAME_MYSTERIOUSLIFEFORM_DANDELFLY
+Dandelfly
+
+#org @NAME_MYSTERIOUSLIFEFORM_ARACHNODE
+Arachnode
+
+#org @NAME_MYSTERIOUSLIFEFORM_BLOWHOG
+WtrBlowhog
+
 #org @NAME_JUMBOBULBORB_MEGA
 JumboBorb
 
@@ -780,7 +843,7 @@ Bogswallow
 Puffmin
 
 #org @NAME_SCORCHCAKE_MEGA
-Scorchcake
+Bittercake
 
 #org @NAME_PUFFSTOOL_MEGA
 Puffstool
@@ -848,62 +911,173 @@ Oatchi
 #org @NAME_MOSS_MEGAB
 Moss
 
-#org @NAME_ICEBLOWNDWEEVIL_F
-Dweevil
+#org @NAME_RED_PIKMIN_VETERAN_MEGA
+RedPikmin
 
-#org @NAME_ICEBLOWNDWEEVIL_E
-Dweevil
+#org @NAME_MURAL01
+Mural
 
-#org @NAME_ICEBLOWNDWEEVIL_W
-Dweevil
+#org @NAME_MURAL02
+Mural
 
-#org @NAME_ICEBLOWNDWEEVIL_P
-Dweevil
+#org @NAME_MURAL03
+Mural
 
-#org @NAME_REDBUBBLIMP
-Bubblimp
+#org @NAME_MURAL04
+Mural
 
-#org @NAME_STARNACLE
-Starnacle
+#org @NAME_MURAL05
+Mural
 
-#org @NAME_SHEARFLEA
-Shearflea
+#org @NAME_MURAL06
+Mural
 
-#org @NAME_WHISKERPILLAR
-Whskrpilar
+#org @NAME_MURAL07
+Mural
 
-#org @NAME_ICYBLOWHOG
-IcyBlowhog
+#org @NAME_MURAL08
+Mural
 
-#org @NAME_MYSTERIOUSLIFEFORM
-???
+#org @NAME_MURAL09
+Mural
 
-#org @NAME_MYSTERIOUSLIFEFORM_BULBORB
-RedBulborb
+#org @NAME_MURAL10
+Mural
 
-#org @NAME_MYSTERIOUSLIFEFORM_AMPRAT
-Amprat
+#org @NAME_MURAL11
+Mural
 
-#org @NAME_MYSTERIOUSLIFEFORM_DANDELFLY
-Dandelfly
+#org @NAME_MURAL12
+Mural
 
-#org @NAME_MYSTERIOUSLIFEFORM_ARACHNODE
-Arachnode
+#org @NAME_MURAL13
+Mural
 
-#org @NAME_MYSTERIOUSLIFEFORM_BLOWHOG
-WtrBlowhog
+#org @NAME_MURAL14
+Mural
 
-#org @NAME_WATERWRAITH_NOTIRES
-WatrWraith
+#org @NAME_MURAL15
+Mural
+
+#org @NAME_MURAL16
+Mural
+
+#org @NAME_MURAL17
+Mural
+
+#org @NAME_MURAL18
+Mural
+
+#org @NAME_MURAL19
+Mural
+
+#org @NAME_MURAL20
+Mural
+
+#org @NAME_MURAL21
+Mural
+
+#org @NAME_MURAL22
+Mural
+
+#org @NAME_MURAL23
+Mural
+
+#org @NAME_MURAL24
+Mural
+
+#org @NAME_MURAL25
+Mural
+
+#org @NAME_MURAL26
+Mural
+
+#org @NAME_MURAL27
+Mural
+
+#org @NAME_MURAL28
+Mural
+
+#org @NAME_MURAL29
+Mural
+
+#org @NAME_MURAL30
+Mural
+
+#org @NAME_MURAL31
+Mural
+
+#org @NAME_MURAL32
+Mural
+
+#org @NAME_MURAL33
+Mural
+
+#org @NAME_MURAL34
+Mural
+
+#org @NAME_MURAL35
+Mural
+
+#org @NAME_MURAL36
+Mural
+
+#org @NAME_MURAL37
+Mural
+
+#org @NAME_MURAL38
+Mural
+
+#org @NAME_MURAL39
+Mural
+
+#org @NAME_MURAL40
+Mural
+
+#org @NAME_MURAL41
+Mural
+
+#org @NAME_MURAL42
+Mural
+
+#org @NAME_MURAL43
+Mural
+
+#org @NAME_MURAL44
+Mural
+
+#org @NAME_MURAL45
+Mural
+
+#org @NAME_MURAL46
+Mural
+
+#org @NAME_MURAL47
+Mural
+
+#org @NAME_MURAL48
+Mural
+
+#org @NAME_MURAL49
+Mural
+
+#org @NAME_MURAL50
+Mural
+
+#org @NAME_MURAL51
+Mural
+
+#org @NAME_MURAL52
+Mural
+
+#org @NAME_PETEYPIRANNHA
+PeteyPrnha
 
 #org @NAME_WHISKERPILLAR_MEGAB
 Whskrpilar
 
 #org @NAME_WHISKERPILLAR_MEGAS
 Whskrpilar
-
-#org @NAME_PETEYPIRANNHA
-PeteyPrnha
 
 #org @NAME_TOYPIKMIN_RED
 ToyPikmin
@@ -941,9 +1115,6 @@ Meteor
 #org @NAME_CHERRY
 CpdGrenade
 
-#org @NAME_GACHA
-AntnaBeetl
-
 #org @NAME_FIERYYOUNGYELLOWWOLLYHOP
 FrYngYlWly
 
@@ -956,14 +1127,101 @@ Honeywisp
 #org @NAME_CALYREX
 Calyrex
 
-#org @NAME_FREEZECAKE
-Freezecake
+#org @NAME_SKELEMIN
+Skelemin
 
-#org @NAME_SHOCKCAKE
-Shockcake
+#org @NAME_SKELEMIN_MEGA
+Skelemin
 
-#org @NAME_WIDEMOUTHEDANODEBEETLE
-WdMthAnode
+#org @NAME_MOYAIMIN
+Moyaimin
 
-#org @NAME_DECORATEDCANNONBEETLE
-DecorBetle
+#org @NAME_MOYAIMIN_MEGA
+Moyaimin
+
+#org @NAME_COCKATRICE
+Cockatrice
+
+#org @NAME_BUPBORB
+Bupborb
+
+#org @NAME_DWARFKERMIT
+DwrfKermit
+
+#org @NAME_BULBLAXLARVA
+BlblxLarva
+
+#org @NAME_COALBEETLE
+CoalBeetle
+
+#org @NAME_HEAVYCANNONLARVA
+HeavyLarva
+
+#org @NAME_CREWMATE
+Crewmate
+
+#org @NAME_IMPOSTER
+Imposter
+
+#org @NAME_APACHE
+ApcheBchBg
+
+#org @NAME_MORSHUBUG
+Morshubug
+
+#org @NAME_SKITTERJUANA
+Skterjuana
+
+#org @NAME_WAHPOLE
+WAHpole
+
+#org @NAME_WALUIGIWOG
+Waluigihop
+
+#org @NAME_STEPHAN
+Stephan
+
+#org @NAME_LINKGRET
+Linkgret
+
+#org @NAME_OLIMANATLEGS
+OliMnAtLgs
+
+#org @NAME_BULBEEL
+Bulbeel
+
+#org @NAME_IWAGEN
+Iwagen
+
+#org @NAME_128MARIOS
+128Marios
+
+#org @NAME_FIDDLEHEAD
+Fiddlehead
+
+#org @NAME_HORSETAIL
+Horsetail
+
+#org @NAME_SPOTCAP
+Spotcap
+
+#org @NAME_KINGCAP
+Kingcap
+
+#org @NAME_BULBIE
+Bulbie
+
+#org @NAME_SLUGCAT
+Slugcat
+
+#org @NAME_PINKELEBIT
+PinkElebit
+
+#org @NAME_PRIMALASPID
+PrimlAspid
+
+#org @NAME_CHIBIROBO
+ChibiRobo
+
+#org @NAME_PIKACHU
+Pikachu

@@ -1616,4 +1616,436 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x1,
 	},
+
+	[SPECIES_REDPIKMIN_VETERAN_MEGA] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	
+	[MURAL_SKELEMIN] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SKELEMIN] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_SKELEMIN_MEGA] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SKELEMIN_MEGA] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_MOYAIMIN] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MOYAIMIN] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_MOYAIMIN_MEGA] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MOYAIMIN_MEGA] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_COCKATRICE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_COCKATRICE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_BUPBORB] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BUPBORB] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_DWARFKERMIT] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_DWARFKERMIT] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_BULBLAXLARVA] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BULBLAXLARVA] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_COALBEETLE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_COALBEETLE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_HEAVYCANNONLARVA] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_HEAVYCANNONLARVA] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_CREWMATE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CREWMATE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_IMPOSTER] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IMPOSTER] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_APACHE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_APACHE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_MORSHUBUG] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_MORSHUBUG] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_SKITTERJUANA] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SKITTERJUANA] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_WAHPOLE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_WAHPOLE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_WALUIGIWOG] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_WALUIGIWOG] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_STEPHAN] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_STEPHAN] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_LINKGRET] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_LINKGRET] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_OLIMANATLEGS] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_OLIMANATLEGS] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_BULBEEL] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BULBEEL] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_IWAGEN] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IWAGEN] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_128MARIOS] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_128MARIOS] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_FIDDLEHEAD] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_FIDDLEHEAD] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_HORSETAIL] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_HORSETAIL] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_SPOTCAP] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SPOTCAP] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_KINGCAP] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_KINGCAP] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_BULBIE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BULBIE] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_SLUGCAT] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SLUGCAT] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_PINKELEBIT] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_PINKELEBIT] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},	
+	[MURAL_PRIMALASPID] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_PRIMALASPID] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_CHIBIROBO] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_CHIBIROBO] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_PIKACHU] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[SPECIES_PIKACHU] =
+	{
+		.size = 0x64,
+		.y_offset = 0x0,
+	},
+	[MURAL_WHISKERPILLAR_MEGAB] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_WHISKERPILLAR_MEGAS] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_PETEYPIRANNHA] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_TOYPIKMIN_RED] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_TOYPIKMIN_YELLOW] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_TOYPIKMIN_BLUE] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_PIKI_MALE] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_PIKI_FEMALE] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_DEMOF] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_DEMOG] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_DEMOI] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_DEMOW] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_USUALSUSPECT] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_METEOR] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_CHERRY] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_FIERYYOUNGYELLOWWOLLYHOP] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_HOTELTRANSYLVANIA] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_HONEYWISP_MEGA] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[MURAL_CALYREX] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
 };
