@@ -7770,7 +7770,7 @@ const struct BaseStats gBaseStats[] =
 		.safariZoneFleeRate = 0,
 		.hiddenAbility = ABILITY_BALLFETCH, 
 		.bodyColor  = BODY_COLOR_RED,
-		.shinyColor = BODY_COLOR_RED,
+		.shinyColor = BODY_COLOR_BLACK,
 		.noFlip = TRUE,
 	},
 
@@ -7805,7 +7805,7 @@ const struct BaseStats gBaseStats[] =
 		.safariZoneFleeRate = 0,
 		.hiddenAbility = ABILITY_BALLFETCH, 
 		.bodyColor  = BODY_COLOR_YELLOW,
-		.shinyColor = BODY_COLOR_YELLOW,
+		.shinyColor = BODY_COLOR_BROWN,
 		.noFlip = TRUE,
 	},
 
@@ -7840,7 +7840,7 @@ const struct BaseStats gBaseStats[] =
 		.safariZoneFleeRate = 0,
 		.hiddenAbility = ABILITY_BALLFETCH, 
 		.bodyColor  = BODY_COLOR_BLUE,
-		.shinyColor = BODY_COLOR_BLUE,
+		.shinyColor = BODY_COLOR_BROWN,
 		.noFlip = TRUE,
 	},
 
@@ -9624,7 +9624,7 @@ const struct BaseStats gBaseStats[] =
 		.ability2 = ABILITY_MULTITYPE,
 		.safariZoneFleeRate = 0,
 		.hiddenAbility = ABILITY_MULTITYPE,
-		.bodyColor  = BODY_COLOR_PINK,
+		.bodyColor  = BODY_COLOR_PURPLE,
 		.shinyColor = BODY_COLOR_YELLOW,
 		.noFlip = TRUE,
 	},
@@ -9660,7 +9660,7 @@ const struct BaseStats gBaseStats[] =
 		.safariZoneFleeRate = 0,
 		.hiddenAbility = ABILITY_MULTITYPE,
 		.bodyColor  = BODY_COLOR_PINK,
-		.shinyColor = BODY_COLOR_YELLOW,
+		.shinyColor = BODY_COLOR_BLACK,
 		.noFlip = TRUE,
 	},
 
@@ -14115,8 +14115,8 @@ const struct BaseStats gBaseStats[] =
 		.ability2 = ABILITY_MAGNETPULL,
 		.safariZoneFleeRate = 56,
 		.hiddenAbility = ABILITY_NOGUARD, 
-		.bodyColor  = BODY_COLOR_RED,
-		.shinyColor = BODY_COLOR_BLACK,
+		.bodyColor  = BODY_COLOR_YELLOW,
+		.shinyColor = BODY_COLOR_BROWN,
 		.noFlip = TRUE,
 	},
 	[MURAL_PIKACHU] =
